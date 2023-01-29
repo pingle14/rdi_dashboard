@@ -2,11 +2,15 @@ import streamlit as st
 import seaborn as sns
 from PIL import Image
 import plotly.express as px
-import geopandas as gpd
+import io
+
+# import geopandas as gpd
 
 from rdi_utils.constants import page_title
 from rdi_utils.utils import display_header
-from rdi_utils.data_io import load_shp_file
+from rdi_utils.data_io import load_shp_file, load_full_csv
+from rdi_utils.forms import pick_state
+from rdi_utils.plots import plot_timeline
 
 sns.set()
 
@@ -108,45 +112,74 @@ Save this into gdf that i can load --> do this
 
 """
 
-
-gdf = load_shp_file("us_pumas_2012_2019/us_pumas_2012_2019.shp")
-# gdf = gdf[gdf.year == 2006]
-fig = px.choropleth_mapbox(
-    gdf,
-    geojson=gdf.geometry,
-    locations=gdf.index,
-    # color=filtered_gdf[selected_median],
-    color_continuous_scale="amp",
-    # center={"lat": center_lat, "lon": center_lon},
-    mapbox_style="open-street-map",
-    # zoom=zoom_level,
-    opacity=0.75,
-    # title=colorbar_title,
-)
-fig.update_traces(marker_line_width=0.001, marker_line_color="black")
-fig.update_layout(
-    height=600,
-    title_font_size=16,
-    # title_text=plt_title,
-    title_xanchor="center",
-    title_x=0.5,
-    title_yanchor="top",
-    title_y=0.9,
-    title_font_color="peachpuff",
-    paper_bgcolor="black",
-    # coloraxis_colorbar={
-    #     "title": formatted_median_name,
-    # },
-)
-
-st.plotly_chart(fig, use_container_width=True)
-
-
 if st.session_state["chose_valid_option"]:
     st.subheader(option)
     if option == opt_map:
-        "Put map stuff here ... Load Chungus d-set"
+        gdf = load_shp_file("us_pumas_2012_2019/us_pumas_2012_2019.shp")
+        # gdf = gdf[gdf.year == 2006]
+        fig = px.choropleth_mapbox(
+            gdf,
+            geojson=gdf.geometry,
+            locations=gdf.index,
+            # color=filtered_gdf[selected_median],
+            color_continuous_scale="amp",
+            # center={"lat": center_lat, "lon": center_lon},
+            mapbox_style="open-street-map",
+            # zoom=zoom_level,
+            opacity=0.75,
+            # title=colorbar_title,
+        )
+        fig.update_traces(marker_line_width=0.001, marker_line_color="black")
+        fig.update_layout(
+            height=600,
+            title_font_size=16,
+            # title_text=plt_title,
+            title_xanchor="center",
+            title_x=0.5,
+            title_yanchor="top",
+            title_y=0.9,
+            title_font_color="peachpuff",
+            paper_bgcolor="black",
+            # coloraxis_colorbar={
+            #     "title": formatted_median_name,
+            # },
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
     elif option == opt_timeline:
-        "Put timeline ... load condensed d-set"
+        timeline_df, success = load_full_csv("data/timeline_df.csv")
+        if success:
+            cols = st.columns([0.3, 0.7])
+            state = None
+            with cols[0]:
+                state = pick_state()
+
+                with open("data/timeline_df.csv") as f:
+                    st.download_button(
+                        label="Download RDI Quantiles",
+                        data=f,
+                        file_name="rdi_full_timeline.csv",
+                        mime="text/csv",
+                    )
+
+            with cols[1]:
+                fig, plt_title = plot_timeline(timeline_df, state)
+                st.plotly_chart(fig, use_container_width=True)
+
+                # Download Plot as HTML
+                buffer = io.StringIO()
+                fig.write_html(buffer, include_plotlyjs="cdn")
+                html_bytes = buffer.getvalue().encode()
+
+                st.download_button(
+                    label=f"Download Plot ({plt_title}) as HTML",
+                    data=html_bytes,
+                    file_name=f"{plt_title}.html",
+                    mime="text/html",
+                )
+
+        else:
+            st.error("Timeline File Failed to Load")
+
     elif option == opt_upload:
         "put upload ... Load pickle"
