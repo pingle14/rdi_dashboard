@@ -21,6 +21,10 @@ def load_shp_file(path):
     gdf = None
     try:
         gdf = gpd.read_file(path)
+        gdf["STATE"] = gdf.apply(lambda row: int(row.STATEFP10), axis=1)
+        gdf["PUMA"] = gdf.apply(lambda row: int(row.PUMACE10), axis=1)
+        gdf["MERGE_CODE"] = gdf.apply(lambda row: f"{row.STATE}_{row.PUMA}", axis=1)
+        gdf = gdf[["STATE", "PUMA", "MERGE_CODE", "geometry"]]
     except Exception as e:
         st.warning(f"Could not load shp file at {path}. {e}")
     return gdf

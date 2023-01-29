@@ -6,7 +6,7 @@ import plotly.express as px
 # import geopandas as gpd
 
 from rdi_utils.constants import page_title
-from rdi_utils.utils import display_header, do_timeline
+from rdi_utils.utils import display_header, do_maps, do_timeline, do_model
 from rdi_utils.data_io import load_shp_file
 
 sns.set()
@@ -99,52 +99,14 @@ with st.form("choose_option"):
 "---"
 
 
-"""
-TODO:
-Split Features Dset bw pre + post 2010
-Merge respective shp with features dsetstuff in jupyter notebook
-
-Save this into gdf that i can load --> do this
-
-
-"""
-
 if st.session_state["chose_valid_option"]:
     st.subheader(option)
     if option == opt_map:
         gdf = load_shp_file("us_pumas_2012_2019/us_pumas_2012_2019.shp")
-        # gdf = gdf[gdf.year == 2006]
-        fig = px.choropleth_mapbox(
-            gdf,
-            geojson=gdf.geometry,
-            locations=gdf.index,
-            # color=filtered_gdf[selected_median],
-            color_continuous_scale="amp",
-            center={"lat": 40, "lon": -101},
-            mapbox_style="open-street-map",
-            zoom=3,
-            opacity=0.75,
-            # title=colorbar_title,
-        )
-        fig.update_traces(marker_line_width=0.001, marker_line_color="black")
-        fig.update_layout(
-            height=600,
-            title_font_size=16,
-            # title_text=plt_title,
-            title_xanchor="center",
-            title_x=0.5,
-            title_yanchor="top",
-            title_y=0.9,
-            title_font_color="peachpuff",
-            paper_bgcolor="black",
-            # coloraxis_colorbar={
-            #     "title": formatted_median_name,
-            # },
-        )
+        do_maps(gdf)
 
-        st.plotly_chart(fig, use_container_width=True)
     elif option == opt_timeline:
         do_timeline()
 
     elif option == opt_upload:
-        "put upload ... Load pickle"
+        do_model()
