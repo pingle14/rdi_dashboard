@@ -2,15 +2,12 @@ import streamlit as st
 import seaborn as sns
 from PIL import Image
 import plotly.express as px
-import io
 
 # import geopandas as gpd
 
 from rdi_utils.constants import page_title
-from rdi_utils.utils import display_header
-from rdi_utils.data_io import load_shp_file, load_full_csv
-from rdi_utils.forms import pick_state
-from rdi_utils.plots import plot_timeline
+from rdi_utils.utils import display_header, do_timeline
+from rdi_utils.data_io import load_shp_file
 
 sns.set()
 
@@ -123,9 +120,9 @@ if st.session_state["chose_valid_option"]:
             locations=gdf.index,
             # color=filtered_gdf[selected_median],
             color_continuous_scale="amp",
-            # center={"lat": center_lat, "lon": center_lon},
+            center={"lat": 40, "lon": -101},
             mapbox_style="open-street-map",
-            # zoom=zoom_level,
+            zoom=3,
             opacity=0.75,
             # title=colorbar_title,
         )
@@ -147,39 +144,7 @@ if st.session_state["chose_valid_option"]:
 
         st.plotly_chart(fig, use_container_width=True)
     elif option == opt_timeline:
-        timeline_df, success = load_full_csv("data/timeline_df.csv")
-        if success:
-            cols = st.columns([0.3, 0.7])
-            state = None
-            with cols[0]:
-                state = pick_state()
-
-                with open("data/timeline_df.csv") as f:
-                    st.download_button(
-                        label="Download RDI Quantiles",
-                        data=f,
-                        file_name="rdi_full_timeline.csv",
-                        mime="text/csv",
-                    )
-
-            with cols[1]:
-                fig, plt_title = plot_timeline(timeline_df, state)
-                st.plotly_chart(fig, use_container_width=True)
-
-                # Download Plot as HTML
-                buffer = io.StringIO()
-                fig.write_html(buffer, include_plotlyjs="cdn")
-                html_bytes = buffer.getvalue().encode()
-
-                st.download_button(
-                    label=f"Download Plot ({plt_title}) as HTML",
-                    data=html_bytes,
-                    file_name=f"{plt_title}.html",
-                    mime="text/html",
-                )
-
-        else:
-            st.error("Timeline File Failed to Load")
+        do_timeline()
 
     elif option == opt_upload:
         "put upload ... Load pickle"

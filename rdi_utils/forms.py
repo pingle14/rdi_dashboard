@@ -11,3 +11,7 @@ def pick_state():
         "", states.values(), index=list(states.values()).index("Texas")
     )
     return state
+
+
+def pick_field():
+    pass
