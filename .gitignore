@@ -1,7 +1,7 @@
 # My Files
 ipums_puma_2000
-us_pumas_2012_2019
-*.csv
+#us_pumas_2012_2019
+#*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

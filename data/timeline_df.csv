@@ -1,0 +1,2143 @@
+Year,state_name,state_code,Type of Percentile,GDI Index
+2006,Alabama,AL,25th Percentile,0.148186688
+2006,Alabama,AL,50th Percentile,0.151225814
+2006,Alabama,AL,75th Percentile,0.15385570225
+2007,Alabama,AL,25th Percentile,0.14733476475
+2007,Alabama,AL,50th Percentile,0.1502200895
+2007,Alabama,AL,75th Percentile,0.15281300725
+2008,Alabama,AL,25th Percentile,0.1542062225
+2008,Alabama,AL,50th Percentile,0.1569220445
+2008,Alabama,AL,75th Percentile,0.15988606
+2009,Alabama,AL,25th Percentile,0.15208403375
+2009,Alabama,AL,50th Percentile,0.156773017
+2009,Alabama,AL,75th Percentile,0.159425224
+2010,Alabama,AL,25th Percentile,0.15163192675
+2010,Alabama,AL,50th Percentile,0.155854984
+2010,Alabama,AL,75th Percentile,0.15987459375
+2011,Alabama,AL,25th Percentile,0.15380066575
+2011,Alabama,AL,50th Percentile,0.1570651785
+2011,Alabama,AL,75th Percentile,0.1605004355
+2012,Alabama,AL,25th Percentile,0.165354856
+2012,Alabama,AL,50th Percentile,0.169882258
+2012,Alabama,AL,75th Percentile,0.17781402775
+2013,Alabama,AL,25th Percentile,0.1615981065
+2013,Alabama,AL,50th Percentile,0.166570706
+2013,Alabama,AL,75th Percentile,0.17548276275
+2014,Alabama,AL,25th Percentile,0.16460285725
+2014,Alabama,AL,50th Percentile,0.1707153925
+2014,Alabama,AL,75th Percentile,0.1816519135
+2015,Alabama,AL,25th Percentile,0.1642716235
+2015,Alabama,AL,50th Percentile,0.172186105
+2015,Alabama,AL,75th Percentile,0.179869794
+2016,Alabama,AL,25th Percentile,0.163128801
+2016,Alabama,AL,50th Percentile,0.171282421
+2016,Alabama,AL,75th Percentile,0.17892919675
+2017,Alabama,AL,25th Percentile,0.1642656535
+2017,Alabama,AL,50th Percentile,0.172574671
+2017,Alabama,AL,75th Percentile,0.1787179205
+2018,Alabama,AL,25th Percentile,0.17098736625
+2018,Alabama,AL,50th Percentile,0.176457482
+2018,Alabama,AL,75th Percentile,0.18514647525
+2019,Alabama,AL,25th Percentile,0.168701904
+2019,Alabama,AL,50th Percentile,0.1743616825
+2019,Alabama,AL,75th Percentile,0.18224493775
+2006,Alaska,AK,25th Percentile,0.185326705
+2006,Alaska,AK,50th Percentile,0.187993258
+2006,Alaska,AK,75th Percentile,0.189343181
+2007,Alaska,AK,25th Percentile,0.188901551
+2007,Alaska,AK,50th Percentile,0.191756384
+2007,Alaska,AK,75th Percentile,0.1945303435
+2008,Alaska,AK,25th Percentile,0.18557279875
+2008,Alaska,AK,50th Percentile,0.187054678
+2008,Alaska,AK,75th Percentile,0.18941353775
+2009,Alaska,AK,25th Percentile,0.18212560875
+2009,Alaska,AK,50th Percentile,0.1831352825
+2009,Alaska,AK,75th Percentile,0.188514322
+2010,Alaska,AK,25th Percentile,0.17547886
+2010,Alaska,AK,50th Percentile,0.177689975
+2010,Alaska,AK,75th Percentile,0.188897644
+2011,Alaska,AK,25th Percentile,0.181946159
+2011,Alaska,AK,50th Percentile,0.182994635
+2011,Alaska,AK,75th Percentile,0.192313514
+2012,Alaska,AK,25th Percentile,0.211952989
+2012,Alaska,AK,50th Percentile,0.215645675
+2012,Alaska,AK,75th Percentile,0.220231828
+2013,Alaska,AK,25th Percentile,0.212121562
+2013,Alaska,AK,50th Percentile,0.219221587
+2013,Alaska,AK,75th Percentile,0.219706211
+2014,Alaska,AK,25th Percentile,0.223459942
+2014,Alaska,AK,50th Percentile,0.223739946
+2014,Alaska,AK,75th Percentile,0.229580795
+2015,Alaska,AK,25th Percentile,0.221504076
+2015,Alaska,AK,50th Percentile,0.22990564
+2015,Alaska,AK,75th Percentile,0.23244184
+2016,Alaska,AK,25th Percentile,0.218977461
+2016,Alaska,AK,50th Percentile,0.220185021
+2016,Alaska,AK,75th Percentile,0.225210265
+2017,Alaska,AK,25th Percentile,0.222648369
+2017,Alaska,AK,50th Percentile,0.225317882
+2017,Alaska,AK,75th Percentile,0.225728867
+2018,Alaska,AK,25th Percentile,0.233315775
+2018,Alaska,AK,50th Percentile,0.235075565
+2018,Alaska,AK,75th Percentile,0.237483095
+2019,Alaska,AK,25th Percentile,0.216010433
+2019,Alaska,AK,50th Percentile,0.219318845
+2019,Alaska,AK,75th Percentile,0.230534514
+2006,Arizona,AZ,25th Percentile,0.16597673375
+2006,Arizona,AZ,50th Percentile,0.169305952
+2006,Arizona,AZ,75th Percentile,0.179302871
+2007,Arizona,AZ,25th Percentile,0.16519692075
+2007,Arizona,AZ,50th Percentile,0.1705213125
+2007,Arizona,AZ,75th Percentile,0.17521808075
+2008,Arizona,AZ,25th Percentile,0.16997609275
+2008,Arizona,AZ,50th Percentile,0.1758040075
+2008,Arizona,AZ,75th Percentile,0.18417321425
+2009,Arizona,AZ,25th Percentile,0.169773906
+2009,Arizona,AZ,50th Percentile,0.174084038
+2009,Arizona,AZ,75th Percentile,0.1807200955
+2010,Arizona,AZ,25th Percentile,0.17036155475
+2010,Arizona,AZ,50th Percentile,0.1741007495
+2010,Arizona,AZ,75th Percentile,0.183084766
+2011,Arizona,AZ,25th Percentile,0.1689761925
+2011,Arizona,AZ,50th Percentile,0.1754581785
+2011,Arizona,AZ,75th Percentile,0.18041975975
+2012,Arizona,AZ,25th Percentile,0.18239075375
+2012,Arizona,AZ,50th Percentile,0.1929655425
+2012,Arizona,AZ,75th Percentile,0.2000144645
+2013,Arizona,AZ,25th Percentile,0.1860023015
+2013,Arizona,AZ,50th Percentile,0.192444635
+2013,Arizona,AZ,75th Percentile,0.2031473415
+2014,Arizona,AZ,25th Percentile,0.196149367
+2014,Arizona,AZ,50th Percentile,0.2027084945
+2014,Arizona,AZ,75th Percentile,0.212892683
+2015,Arizona,AZ,25th Percentile,0.19728837275
+2015,Arizona,AZ,50th Percentile,0.2053165825
+2015,Arizona,AZ,75th Percentile,0.21206915675
+2016,Arizona,AZ,25th Percentile,0.19381720225
+2016,Arizona,AZ,50th Percentile,0.204048329
+2016,Arizona,AZ,75th Percentile,0.2125653695
+2017,Arizona,AZ,25th Percentile,0.19220031775
+2017,Arizona,AZ,50th Percentile,0.203150396
+2017,Arizona,AZ,75th Percentile,0.211419463
+2018,Arizona,AZ,25th Percentile,0.20525033075
+2018,Arizona,AZ,50th Percentile,0.2122433785
+2018,Arizona,AZ,75th Percentile,0.22197824925
+2019,Arizona,AZ,25th Percentile,0.201038208
+2019,Arizona,AZ,50th Percentile,0.2110867615
+2019,Arizona,AZ,75th Percentile,0.21900539025
+2006,Arkansas,AR,25th Percentile,0.144129112
+2006,Arkansas,AR,50th Percentile,0.150834799
+2006,Arkansas,AR,75th Percentile,0.1564115425
+2007,Arkansas,AR,25th Percentile,0.145637681
+2007,Arkansas,AR,50th Percentile,0.14827995
+2007,Arkansas,AR,75th Percentile,0.1523988655
+2008,Arkansas,AR,25th Percentile,0.151386691
+2008,Arkansas,AR,50th Percentile,0.154450242
+2008,Arkansas,AR,75th Percentile,0.16239967
+2009,Arkansas,AR,25th Percentile,0.1527822055
+2009,Arkansas,AR,50th Percentile,0.159218781
+2009,Arkansas,AR,75th Percentile,0.1647756235
+2010,Arkansas,AR,25th Percentile,0.15056495
+2010,Arkansas,AR,50th Percentile,0.155154789
+2010,Arkansas,AR,75th Percentile,0.159146389
+2011,Arkansas,AR,25th Percentile,0.153524695
+2011,Arkansas,AR,50th Percentile,0.157008339
+2011,Arkansas,AR,75th Percentile,0.161423743
+2012,Arkansas,AR,25th Percentile,0.18386814025
+2012,Arkansas,AR,50th Percentile,0.1873033635
+2012,Arkansas,AR,75th Percentile,0.19390727775
+2013,Arkansas,AR,25th Percentile,0.1849692565
+2013,Arkansas,AR,50th Percentile,0.190886049
+2013,Arkansas,AR,75th Percentile,0.192988132
+2014,Arkansas,AR,25th Percentile,0.190595042
+2014,Arkansas,AR,50th Percentile,0.194582983
+2014,Arkansas,AR,75th Percentile,0.2011961035
+2015,Arkansas,AR,25th Percentile,0.1888239485
+2015,Arkansas,AR,50th Percentile,0.193785335
+2015,Arkansas,AR,75th Percentile,0.201004176
+2016,Arkansas,AR,25th Percentile,0.1889923195
+2016,Arkansas,AR,50th Percentile,0.193625658
+2016,Arkansas,AR,75th Percentile,0.199347637
+2017,Arkansas,AR,25th Percentile,0.1899159845
+2017,Arkansas,AR,50th Percentile,0.192155918
+2017,Arkansas,AR,75th Percentile,0.198878178
+2018,Arkansas,AR,25th Percentile,0.193435139
+2018,Arkansas,AR,50th Percentile,0.1957099825
+2018,Arkansas,AR,75th Percentile,0.20558243525
+2019,Arkansas,AR,25th Percentile,0.19220420125
+2019,Arkansas,AR,50th Percentile,0.1947639495
+2019,Arkansas,AR,75th Percentile,0.20325062475
+2006,California,CA,25th Percentile,0.143696406
+2006,California,CA,50th Percentile,0.153264041
+2006,California,CA,75th Percentile,0.162199593
+2007,California,CA,25th Percentile,0.1421961425
+2007,California,CA,50th Percentile,0.151258638
+2007,California,CA,75th Percentile,0.16163340775
+2008,California,CA,25th Percentile,0.146551784
+2008,California,CA,50th Percentile,0.155178905
+2008,California,CA,75th Percentile,0.1648931895
+2009,California,CA,25th Percentile,0.14672280625
+2009,California,CA,50th Percentile,0.156532788
+2009,California,CA,75th Percentile,0.16539554575
+2010,California,CA,25th Percentile,0.145709754
+2010,California,CA,50th Percentile,0.155447388
+2010,California,CA,75th Percentile,0.165497796
+2011,California,CA,25th Percentile,0.146051782
+2011,California,CA,50th Percentile,0.156243922
+2011,California,CA,75th Percentile,0.16590225375
+2012,California,CA,25th Percentile,0.17024687075
+2012,California,CA,50th Percentile,0.178381539
+2012,California,CA,75th Percentile,0.185145312
+2013,California,CA,25th Percentile,0.1717271315
+2013,California,CA,50th Percentile,0.1778449865
+2013,California,CA,75th Percentile,0.1837392075
+2014,California,CA,25th Percentile,0.17762654675
+2014,California,CA,50th Percentile,0.189614669
+2014,California,CA,75th Percentile,0.19639258525
+2015,California,CA,25th Percentile,0.178260928
+2015,California,CA,50th Percentile,0.188878782
+2015,California,CA,75th Percentile,0.196579784
+2016,California,CA,25th Percentile,0.1781992
+2016,California,CA,50th Percentile,0.187232352
+2016,California,CA,75th Percentile,0.195718528
+2017,California,CA,25th Percentile,0.1760797865
+2017,California,CA,50th Percentile,0.186983454
+2017,California,CA,75th Percentile,0.1963019255
+2018,California,CA,25th Percentile,0.18380506
+2018,California,CA,50th Percentile,0.194426932
+2018,California,CA,75th Percentile,0.203078372
+2019,California,CA,25th Percentile,0.18178480175
+2019,California,CA,50th Percentile,0.193090989
+2019,California,CA,75th Percentile,0.20249126675
+2006,Colorado,CO,25th Percentile,0.17732351
+2006,Colorado,CO,50th Percentile,0.183474582
+2006,Colorado,CO,75th Percentile,0.187556877
+2007,Colorado,CO,25th Percentile,0.1713459095
+2007,Colorado,CO,50th Percentile,0.1829718265
+2007,Colorado,CO,75th Percentile,0.188524299
+2008,Colorado,CO,25th Percentile,0.1778486395
+2008,Colorado,CO,50th Percentile,0.184426002
+2008,Colorado,CO,75th Percentile,0.1938426425
+2009,Colorado,CO,25th Percentile,0.1811287895
+2009,Colorado,CO,50th Percentile,0.1854791515
+2009,Colorado,CO,75th Percentile,0.1921688055
+2010,Colorado,CO,25th Percentile,0.18060896
+2010,Colorado,CO,50th Percentile,0.186692397
+2010,Colorado,CO,75th Percentile,0.192897875
+2011,Colorado,CO,25th Percentile,0.177436591
+2011,Colorado,CO,50th Percentile,0.18491618
+2011,Colorado,CO,75th Percentile,0.192292791
+2012,Colorado,CO,25th Percentile,0.2007252895
+2012,Colorado,CO,50th Percentile,0.2053820735
+2012,Colorado,CO,75th Percentile,0.21262421225
+2013,Colorado,CO,25th Percentile,0.199705873
+2013,Colorado,CO,50th Percentile,0.205418669
+2013,Colorado,CO,75th Percentile,0.212977076
+2014,Colorado,CO,25th Percentile,0.20867496275
+2014,Colorado,CO,50th Percentile,0.2191160395
+2014,Colorado,CO,75th Percentile,0.22411017675
+2015,Colorado,CO,25th Percentile,0.210417093
+2015,Colorado,CO,50th Percentile,0.218655816
+2015,Colorado,CO,75th Percentile,0.225811239
+2016,Colorado,CO,25th Percentile,0.20639912175
+2016,Colorado,CO,50th Percentile,0.2173987235
+2016,Colorado,CO,75th Percentile,0.2223415775
+2017,Colorado,CO,25th Percentile,0.21460686
+2017,Colorado,CO,50th Percentile,0.2173901445
+2017,Colorado,CO,75th Percentile,0.22145442525
+2018,Colorado,CO,25th Percentile,0.2183659015
+2018,Colorado,CO,50th Percentile,0.2239909615
+2018,Colorado,CO,75th Percentile,0.230910176
+2019,Colorado,CO,25th Percentile,0.21787285425
+2019,Colorado,CO,50th Percentile,0.2246939105
+2019,Colorado,CO,75th Percentile,0.2316385755
+2006,Connecticut,CT,25th Percentile,0.194369029
+2006,Connecticut,CT,50th Percentile,0.198758878
+2006,Connecticut,CT,75th Percentile,0.20742431
+2007,Connecticut,CT,25th Percentile,0.190952991
+2007,Connecticut,CT,50th Percentile,0.197265046
+2007,Connecticut,CT,75th Percentile,0.200075283
+2008,Connecticut,CT,25th Percentile,0.191996149
+2008,Connecticut,CT,50th Percentile,0.198484172
+2008,Connecticut,CT,75th Percentile,0.205294905
+2009,Connecticut,CT,25th Percentile,0.193132461
+2009,Connecticut,CT,50th Percentile,0.199728637
+2009,Connecticut,CT,75th Percentile,0.208875405
+2010,Connecticut,CT,25th Percentile,0.189846643
+2010,Connecticut,CT,50th Percentile,0.196634639
+2010,Connecticut,CT,75th Percentile,0.208152025
+2011,Connecticut,CT,25th Percentile,0.188105281
+2011,Connecticut,CT,50th Percentile,0.198140914
+2011,Connecticut,CT,75th Percentile,0.205695725
+2012,Connecticut,CT,25th Percentile,0.2049883335
+2012,Connecticut,CT,50th Percentile,0.2128053825
+2012,Connecticut,CT,75th Percentile,0.2168333875
+2013,Connecticut,CT,25th Percentile,0.200613779
+2013,Connecticut,CT,50th Percentile,0.2098402955
+2013,Connecticut,CT,75th Percentile,0.21740472
+2014,Connecticut,CT,25th Percentile,0.205843438
+2014,Connecticut,CT,50th Percentile,0.2126424705
+2014,Connecticut,CT,75th Percentile,0.221885316
+2015,Connecticut,CT,25th Percentile,0.20862726
+2015,Connecticut,CT,50th Percentile,0.210712221
+2015,Connecticut,CT,75th Percentile,0.21601667
+2016,Connecticut,CT,25th Percentile,0.208007009
+2016,Connecticut,CT,50th Percentile,0.214105109
+2016,Connecticut,CT,75th Percentile,0.21779813625
+2017,Connecticut,CT,25th Percentile,0.2038078675
+2017,Connecticut,CT,50th Percentile,0.2086449595
+2017,Connecticut,CT,75th Percentile,0.21831902425
+2018,Connecticut,CT,25th Percentile,0.20972633575
+2018,Connecticut,CT,50th Percentile,0.213324726
+2018,Connecticut,CT,75th Percentile,0.2207886515
+2019,Connecticut,CT,25th Percentile,0.21257072775
+2019,Connecticut,CT,50th Percentile,0.2177224425
+2019,Connecticut,CT,75th Percentile,0.22587120325
+2006,Delaware,DE,25th Percentile,0.1708765065
+2006,Delaware,DE,50th Percentile,0.172074284
+2006,Delaware,DE,75th Percentile,0.176310775
+2007,Delaware,DE,25th Percentile,0.16944732575
+2007,Delaware,DE,50th Percentile,0.1726070395
+2007,Delaware,DE,75th Percentile,0.176556882
+2008,Delaware,DE,25th Percentile,0.17077762075
+2008,Delaware,DE,50th Percentile,0.176376469
+2008,Delaware,DE,75th Percentile,0.17920087525
+2009,Delaware,DE,25th Percentile,0.17119086375
+2009,Delaware,DE,50th Percentile,0.1728286045
+2009,Delaware,DE,75th Percentile,0.17601971075
+2010,Delaware,DE,25th Percentile,0.17181624325
+2010,Delaware,DE,50th Percentile,0.1764138415
+2010,Delaware,DE,75th Percentile,0.18120847975
+2011,Delaware,DE,25th Percentile,0.170551757
+2011,Delaware,DE,50th Percentile,0.1757177535
+2011,Delaware,DE,75th Percentile,0.176066797
+2012,Delaware,DE,25th Percentile,0.185835562
+2012,Delaware,DE,50th Percentile,0.190090045
+2012,Delaware,DE,75th Percentile,0.19429739275
+2013,Delaware,DE,25th Percentile,0.18684167575
+2013,Delaware,DE,50th Percentile,0.1892812055
+2013,Delaware,DE,75th Percentile,0.19006739025
+2014,Delaware,DE,25th Percentile,0.197697681
+2014,Delaware,DE,50th Percentile,0.199928325
+2014,Delaware,DE,75th Percentile,0.20450775825
+2015,Delaware,DE,25th Percentile,0.19929568425
+2015,Delaware,DE,50th Percentile,0.202623326
+2015,Delaware,DE,75th Percentile,0.2037689935
+2016,Delaware,DE,25th Percentile,0.19584742425
+2016,Delaware,DE,50th Percentile,0.1990576295
+2016,Delaware,DE,75th Percentile,0.20266141225
+2017,Delaware,DE,25th Percentile,0.194507404
+2017,Delaware,DE,50th Percentile,0.1998412885
+2017,Delaware,DE,75th Percentile,0.20299590175
+2018,Delaware,DE,25th Percentile,0.1991284645
+2018,Delaware,DE,50th Percentile,0.2035603815
+2018,Delaware,DE,75th Percentile,0.20664298325
+2019,Delaware,DE,25th Percentile,0.198053117
+2019,Delaware,DE,50th Percentile,0.2000968875
+2019,Delaware,DE,75th Percentile,0.201947362
+2006,District of Columbia,DC,25th Percentile,0.139927628
+2006,District of Columbia,DC,50th Percentile,0.150009417
+2006,District of Columbia,DC,75th Percentile,0.156256915
+2007,District of Columbia,DC,25th Percentile,0.139202687
+2007,District of Columbia,DC,50th Percentile,0.14302187
+2007,District of Columbia,DC,75th Percentile,0.158341671
+2008,District of Columbia,DC,25th Percentile,0.125661566
+2008,District of Columbia,DC,50th Percentile,0.1300311
+2008,District of Columbia,DC,75th Percentile,0.149402302
+2009,District of Columbia,DC,25th Percentile,0.130000813
+2009,District of Columbia,DC,50th Percentile,0.144638638
+2009,District of Columbia,DC,75th Percentile,0.153030913
+2010,District of Columbia,DC,25th Percentile,0.123840132
+2010,District of Columbia,DC,50th Percentile,0.135377869
+2010,District of Columbia,DC,75th Percentile,0.143020488
+2011,District of Columbia,DC,25th Percentile,0.125945669
+2011,District of Columbia,DC,50th Percentile,0.138733645
+2011,District of Columbia,DC,75th Percentile,0.143653431
+2012,District of Columbia,DC,25th Percentile,0.138715918
+2012,District of Columbia,DC,50th Percentile,0.149214227
+2012,District of Columbia,DC,75th Percentile,0.152335494
+2013,District of Columbia,DC,25th Percentile,0.13504993
+2013,District of Columbia,DC,50th Percentile,0.135814178
+2013,District of Columbia,DC,75th Percentile,0.137141354
+2014,District of Columbia,DC,25th Percentile,0.145621467
+2014,District of Columbia,DC,50th Percentile,0.146869842
+2014,District of Columbia,DC,75th Percentile,0.150021962
+2015,District of Columbia,DC,25th Percentile,0.144408089
+2015,District of Columbia,DC,50th Percentile,0.145768075
+2015,District of Columbia,DC,75th Percentile,0.151858794
+2016,District of Columbia,DC,25th Percentile,0.14419561
+2016,District of Columbia,DC,50th Percentile,0.144656213
+2016,District of Columbia,DC,75th Percentile,0.147495345
+2017,District of Columbia,DC,25th Percentile,0.143524249
+2017,District of Columbia,DC,50th Percentile,0.146062193
+2017,District of Columbia,DC,75th Percentile,0.149103599
+2018,District of Columbia,DC,25th Percentile,0.147830679
+2018,District of Columbia,DC,50th Percentile,0.149820123
+2018,District of Columbia,DC,75th Percentile,0.157761977
+2019,District of Columbia,DC,25th Percentile,0.143472165
+2019,District of Columbia,DC,50th Percentile,0.146005843
+2019,District of Columbia,DC,75th Percentile,0.147870984
+2006,Florida,FL,25th Percentile,0.137618203
+2006,Florida,FL,50th Percentile,0.14456766
+2006,Florida,FL,75th Percentile,0.1479592275
+2007,Florida,FL,25th Percentile,0.137550098
+2007,Florida,FL,50th Percentile,0.141638335
+2007,Florida,FL,75th Percentile,0.145671793
+2008,Florida,FL,25th Percentile,0.1437487835
+2008,Florida,FL,50th Percentile,0.148187955
+2008,Florida,FL,75th Percentile,0.152503544
+2009,Florida,FL,25th Percentile,0.1429313565
+2009,Florida,FL,50th Percentile,0.149755709
+2009,Florida,FL,75th Percentile,0.153576205
+2010,Florida,FL,25th Percentile,0.144533728
+2010,Florida,FL,50th Percentile,0.1487470545
+2010,Florida,FL,75th Percentile,0.1534713665
+2011,Florida,FL,25th Percentile,0.1455517425
+2011,Florida,FL,50th Percentile,0.1502931835
+2011,Florida,FL,75th Percentile,0.15571636575
+2012,Florida,FL,25th Percentile,0.164645989
+2012,Florida,FL,50th Percentile,0.168536302
+2012,Florida,FL,75th Percentile,0.172557585
+2013,Florida,FL,25th Percentile,0.162776767
+2013,Florida,FL,50th Percentile,0.167458151
+2013,Florida,FL,75th Percentile,0.170975456
+2014,Florida,FL,25th Percentile,0.171385128
+2014,Florida,FL,50th Percentile,0.175475195
+2014,Florida,FL,75th Percentile,0.179983562
+2015,Florida,FL,25th Percentile,0.17024061
+2015,Florida,FL,50th Percentile,0.175494607
+2015,Florida,FL,75th Percentile,0.178785972
+2016,Florida,FL,25th Percentile,0.169608909
+2016,Florida,FL,50th Percentile,0.173999666
+2016,Florida,FL,75th Percentile,0.178759181
+2017,Florida,FL,25th Percentile,0.1700562725
+2017,Florida,FL,50th Percentile,0.174171872
+2017,Florida,FL,75th Percentile,0.178111232
+2018,Florida,FL,25th Percentile,0.173785577
+2018,Florida,FL,50th Percentile,0.177863966
+2018,Florida,FL,75th Percentile,0.181998641
+2019,Florida,FL,25th Percentile,0.173280806
+2019,Florida,FL,50th Percentile,0.1775426725
+2019,Florida,FL,75th Percentile,0.1804854855
+2006,Georgia,GA,25th Percentile,0.1483444905
+2006,Georgia,GA,50th Percentile,0.152563414
+2006,Georgia,GA,75th Percentile,0.155597086
+2007,Georgia,GA,25th Percentile,0.147642338
+2007,Georgia,GA,50th Percentile,0.151152554
+2007,Georgia,GA,75th Percentile,0.154637199
+2008,Georgia,GA,25th Percentile,0.1514446175
+2008,Georgia,GA,50th Percentile,0.155708996
+2008,Georgia,GA,75th Percentile,0.1597504125
+2009,Georgia,GA,25th Percentile,0.153029514
+2009,Georgia,GA,50th Percentile,0.157229578
+2009,Georgia,GA,75th Percentile,0.1606971995
+2010,Georgia,GA,25th Percentile,0.1535763675
+2010,Georgia,GA,50th Percentile,0.156324261
+2010,Georgia,GA,75th Percentile,0.1599894065
+2011,Georgia,GA,25th Percentile,0.154715158
+2011,Georgia,GA,50th Percentile,0.15720828
+2011,Georgia,GA,75th Percentile,0.161339434
+2012,Georgia,GA,25th Percentile,0.1743351845
+2012,Georgia,GA,50th Percentile,0.180373019
+2012,Georgia,GA,75th Percentile,0.186549352
+2013,Georgia,GA,25th Percentile,0.17439597075
+2013,Georgia,GA,50th Percentile,0.179748467
+2013,Georgia,GA,75th Percentile,0.18471899425
+2014,Georgia,GA,25th Percentile,0.1795154155
+2014,Georgia,GA,50th Percentile,0.185103791
+2014,Georgia,GA,75th Percentile,0.1913907675
+2015,Georgia,GA,25th Percentile,0.17923099925
+2015,Georgia,GA,50th Percentile,0.184071423
+2015,Georgia,GA,75th Percentile,0.1918390115
+2016,Georgia,GA,25th Percentile,0.17694429325
+2016,Georgia,GA,50th Percentile,0.182544804
+2016,Georgia,GA,75th Percentile,0.19056768975
+2017,Georgia,GA,25th Percentile,0.178509348
+2017,Georgia,GA,50th Percentile,0.1842519895
+2017,Georgia,GA,75th Percentile,0.18948300325
+2018,Georgia,GA,25th Percentile,0.18242189
+2018,Georgia,GA,50th Percentile,0.187307117
+2018,Georgia,GA,75th Percentile,0.1930790325
+2019,Georgia,GA,25th Percentile,0.18176191475
+2019,Georgia,GA,50th Percentile,0.186770553
+2019,Georgia,GA,75th Percentile,0.190655706
+2006,Hawaii,HI,25th Percentile,0.166568586
+2006,Hawaii,HI,50th Percentile,0.172793784
+2006,Hawaii,HI,75th Percentile,0.17537358
+2007,Hawaii,HI,25th Percentile,0.1756583065
+2007,Hawaii,HI,50th Percentile,0.1796848915
+2007,Hawaii,HI,75th Percentile,0.189345232
+2008,Hawaii,HI,25th Percentile,0.176587203
+2008,Hawaii,HI,50th Percentile,0.188144429
+2008,Hawaii,HI,75th Percentile,0.191480425
+2009,Hawaii,HI,25th Percentile,0.160726389
+2009,Hawaii,HI,50th Percentile,0.177460837
+2009,Hawaii,HI,75th Percentile,0.186541902
+2010,Hawaii,HI,25th Percentile,0.168353578
+2010,Hawaii,HI,50th Percentile,0.171243555
+2010,Hawaii,HI,75th Percentile,0.178462728
+2011,Hawaii,HI,25th Percentile,0.172445806
+2011,Hawaii,HI,50th Percentile,0.182186172
+2011,Hawaii,HI,75th Percentile,0.191467241
+2012,Hawaii,HI,25th Percentile,0.17320444275
+2012,Hawaii,HI,50th Percentile,0.180990144
+2012,Hawaii,HI,75th Percentile,0.19266042
+2013,Hawaii,HI,25th Percentile,0.1782291415
+2013,Hawaii,HI,50th Percentile,0.1874553525
+2013,Hawaii,HI,75th Percentile,0.19018652125
+2014,Hawaii,HI,25th Percentile,0.17675393275
+2014,Hawaii,HI,50th Percentile,0.1882700055
+2014,Hawaii,HI,75th Percentile,0.19025407
+2015,Hawaii,HI,25th Percentile,0.177351924
+2015,Hawaii,HI,50th Percentile,0.179940366
+2015,Hawaii,HI,75th Percentile,0.193227595
+2016,Hawaii,HI,25th Percentile,0.179498293
+2016,Hawaii,HI,50th Percentile,0.185115049
+2016,Hawaii,HI,75th Percentile,0.190058529
+2017,Hawaii,HI,25th Percentile,0.177994023
+2017,Hawaii,HI,50th Percentile,0.1849824735
+2017,Hawaii,HI,75th Percentile,0.193499267
+2018,Hawaii,HI,25th Percentile,0.17941984825
+2018,Hawaii,HI,50th Percentile,0.1892798895
+2018,Hawaii,HI,75th Percentile,0.196159413
+2019,Hawaii,HI,25th Percentile,0.174319238
+2019,Hawaii,HI,50th Percentile,0.181211281
+2019,Hawaii,HI,75th Percentile,0.188922376
+2006,Idaho,ID,25th Percentile,0.18850172675
+2006,Idaho,ID,50th Percentile,0.1993547875
+2006,Idaho,ID,75th Percentile,0.204560012
+2007,Idaho,ID,25th Percentile,0.184901521
+2007,Idaho,ID,50th Percentile,0.19451461
+2007,Idaho,ID,75th Percentile,0.2069732105
+2008,Idaho,ID,25th Percentile,0.19698395925
+2008,Idaho,ID,50th Percentile,0.209389081
+2008,Idaho,ID,75th Percentile,0.2195837855
+2009,Idaho,ID,25th Percentile,0.1985831705
+2009,Idaho,ID,50th Percentile,0.206793178
+2009,Idaho,ID,75th Percentile,0.21431183
+2010,Idaho,ID,25th Percentile,0.17680815725
+2010,Idaho,ID,50th Percentile,0.1905525895
+2010,Idaho,ID,75th Percentile,0.1917208305
+2011,Idaho,ID,25th Percentile,0.196814335
+2011,Idaho,ID,50th Percentile,0.2095743465
+2011,Idaho,ID,75th Percentile,0.21369653525
+2012,Idaho,ID,25th Percentile,0.225969341
+2012,Idaho,ID,50th Percentile,0.233456123
+2012,Idaho,ID,75th Percentile,0.2380111995
+2013,Idaho,ID,25th Percentile,0.221405118
+2013,Idaho,ID,50th Percentile,0.23073986
+2013,Idaho,ID,75th Percentile,0.244789342
+2014,Idaho,ID,25th Percentile,0.231891945
+2014,Idaho,ID,50th Percentile,0.248414828
+2014,Idaho,ID,75th Percentile,0.255720883
+2015,Idaho,ID,25th Percentile,0.238014278
+2015,Idaho,ID,50th Percentile,0.247903839
+2015,Idaho,ID,75th Percentile,0.248611646
+2016,Idaho,ID,25th Percentile,0.22110232475
+2016,Idaho,ID,50th Percentile,0.2289071375
+2016,Idaho,ID,75th Percentile,0.24885749975
+2017,Idaho,ID,25th Percentile,0.22504018625
+2017,Idaho,ID,50th Percentile,0.236237829
+2017,Idaho,ID,75th Percentile,0.24852224525
+2018,Idaho,ID,25th Percentile,0.23288480375
+2018,Idaho,ID,50th Percentile,0.2491992245
+2018,Idaho,ID,75th Percentile,0.2543509635
+2019,Idaho,ID,25th Percentile,0.243399829
+2019,Idaho,ID,50th Percentile,0.259883013
+2019,Idaho,ID,75th Percentile,0.262575241
+2006,Illinois,IL,25th Percentile,0.166011993
+2006,Illinois,IL,50th Percentile,0.1702003235
+2006,Illinois,IL,75th Percentile,0.1782762845
+2007,Illinois,IL,25th Percentile,0.1636561815
+2007,Illinois,IL,50th Percentile,0.168356728
+2007,Illinois,IL,75th Percentile,0.17550950125
+2008,Illinois,IL,25th Percentile,0.1680945485
+2008,Illinois,IL,50th Percentile,0.174523616
+2008,Illinois,IL,75th Percentile,0.18288355725
+2009,Illinois,IL,25th Percentile,0.169045135
+2009,Illinois,IL,50th Percentile,0.17413958
+2009,Illinois,IL,75th Percentile,0.179233405
+2010,Illinois,IL,25th Percentile,0.1712885765
+2010,Illinois,IL,50th Percentile,0.175687964
+2010,Illinois,IL,75th Percentile,0.180312086
+2011,Illinois,IL,25th Percentile,0.1705201305
+2011,Illinois,IL,50th Percentile,0.176309512
+2011,Illinois,IL,75th Percentile,0.18073531075
+2012,Illinois,IL,25th Percentile,0.2015104885
+2012,Illinois,IL,50th Percentile,0.207243264
+2012,Illinois,IL,75th Percentile,0.21345456
+2013,Illinois,IL,25th Percentile,0.19967801925
+2013,Illinois,IL,50th Percentile,0.2054427865
+2013,Illinois,IL,75th Percentile,0.2111220825
+2014,Illinois,IL,25th Percentile,0.209616933
+2014,Illinois,IL,50th Percentile,0.215315729
+2014,Illinois,IL,75th Percentile,0.221430561
+2015,Illinois,IL,25th Percentile,0.2110622155
+2015,Illinois,IL,50th Percentile,0.215777771
+2015,Illinois,IL,75th Percentile,0.2206856205
+2016,Illinois,IL,25th Percentile,0.2083753205
+2016,Illinois,IL,50th Percentile,0.214846232
+2016,Illinois,IL,75th Percentile,0.2213499515
+2017,Illinois,IL,25th Percentile,0.2082474425
+2017,Illinois,IL,50th Percentile,0.2149397225
+2017,Illinois,IL,75th Percentile,0.21922336225
+2018,Illinois,IL,25th Percentile,0.215731373
+2018,Illinois,IL,50th Percentile,0.2206417255
+2018,Illinois,IL,75th Percentile,0.22639181625
+2019,Illinois,IL,25th Percentile,0.2143761755
+2019,Illinois,IL,50th Percentile,0.220727028
+2019,Illinois,IL,75th Percentile,0.2256492965
+2006,Indiana,IN,25th Percentile,0.168647714
+2006,Indiana,IN,50th Percentile,0.173987248
+2006,Indiana,IN,75th Percentile,0.179610655
+2007,Indiana,IN,25th Percentile,0.165622973
+2007,Indiana,IN,50th Percentile,0.170608247
+2007,Indiana,IN,75th Percentile,0.1780432585
+2008,Indiana,IN,25th Percentile,0.1740257325
+2008,Indiana,IN,50th Percentile,0.181258125
+2008,Indiana,IN,75th Percentile,0.1859942065
+2009,Indiana,IN,25th Percentile,0.172975043
+2009,Indiana,IN,50th Percentile,0.179853544
+2009,Indiana,IN,75th Percentile,0.18657995
+2010,Indiana,IN,25th Percentile,0.17128151575
+2010,Indiana,IN,50th Percentile,0.1794211255
+2010,Indiana,IN,75th Percentile,0.1833730675
+2011,Indiana,IN,25th Percentile,0.173021752
+2011,Indiana,IN,50th Percentile,0.180677076
+2011,Indiana,IN,75th Percentile,0.186293755
+2012,Indiana,IN,25th Percentile,0.19728044
+2012,Indiana,IN,50th Percentile,0.20335426
+2012,Indiana,IN,75th Percentile,0.20732317
+2013,Indiana,IN,25th Percentile,0.19361324375
+2013,Indiana,IN,50th Percentile,0.2023123005
+2013,Indiana,IN,75th Percentile,0.2079543885
+2014,Indiana,IN,25th Percentile,0.2060575795
+2014,Indiana,IN,50th Percentile,0.2133267805
+2014,Indiana,IN,75th Percentile,0.218403953
+2015,Indiana,IN,25th Percentile,0.20531603
+2015,Indiana,IN,50th Percentile,0.213529632
+2015,Indiana,IN,75th Percentile,0.2188193825
+2016,Indiana,IN,25th Percentile,0.20407432525
+2016,Indiana,IN,50th Percentile,0.2121446475
+2016,Indiana,IN,75th Percentile,0.21977798975
+2017,Indiana,IN,25th Percentile,0.204474066
+2017,Indiana,IN,50th Percentile,0.210937872
+2017,Indiana,IN,75th Percentile,0.2175367715
+2018,Indiana,IN,25th Percentile,0.20930465725
+2018,Indiana,IN,50th Percentile,0.2180337035
+2018,Indiana,IN,75th Percentile,0.2243924295
+2019,Indiana,IN,25th Percentile,0.2099412485
+2019,Indiana,IN,50th Percentile,0.215889884
+2019,Indiana,IN,75th Percentile,0.222004612
+2006,Iowa,IA,25th Percentile,0.167207936
+2006,Iowa,IA,50th Percentile,0.176386821
+2006,Iowa,IA,75th Percentile,0.1859849005
+2007,Iowa,IA,25th Percentile,0.171841983
+2007,Iowa,IA,50th Percentile,0.178442397
+2007,Iowa,IA,75th Percentile,0.18744803
+2008,Iowa,IA,25th Percentile,0.183528797
+2008,Iowa,IA,50th Percentile,0.191349601
+2008,Iowa,IA,75th Percentile,0.195538844
+2009,Iowa,IA,25th Percentile,0.173440772
+2009,Iowa,IA,50th Percentile,0.1830478095
+2009,Iowa,IA,75th Percentile,0.1847758965
+2010,Iowa,IA,25th Percentile,0.180050373
+2010,Iowa,IA,50th Percentile,0.187966246
+2010,Iowa,IA,75th Percentile,0.194685159
+2011,Iowa,IA,25th Percentile,0.170876243
+2011,Iowa,IA,50th Percentile,0.1819152575
+2011,Iowa,IA,75th Percentile,0.18810208225
+2012,Iowa,IA,25th Percentile,0.204844694
+2012,Iowa,IA,50th Percentile,0.214171216
+2012,Iowa,IA,75th Percentile,0.2222266625
+2013,Iowa,IA,25th Percentile,0.213541709
+2013,Iowa,IA,50th Percentile,0.217998115
+2013,Iowa,IA,75th Percentile,0.229153801
+2014,Iowa,IA,25th Percentile,0.218072216
+2014,Iowa,IA,50th Percentile,0.22206768
+2014,Iowa,IA,75th Percentile,0.229180058
+2015,Iowa,IA,25th Percentile,0.216089557
+2015,Iowa,IA,50th Percentile,0.224112052
+2015,Iowa,IA,75th Percentile,0.237794145
+2016,Iowa,IA,25th Percentile,0.21321636625
+2016,Iowa,IA,50th Percentile,0.220511142
+2016,Iowa,IA,75th Percentile,0.22703123825
+2017,Iowa,IA,25th Percentile,0.2153611255
+2017,Iowa,IA,50th Percentile,0.2252433605
+2017,Iowa,IA,75th Percentile,0.23949763225
+2018,Iowa,IA,25th Percentile,0.22638430525
+2018,Iowa,IA,50th Percentile,0.2359663445
+2018,Iowa,IA,75th Percentile,0.24828766
+2019,Iowa,IA,25th Percentile,0.226767841
+2019,Iowa,IA,50th Percentile,0.233744518
+2019,Iowa,IA,75th Percentile,0.238150498
+2006,Kansas,KS,25th Percentile,0.171944545
+2006,Kansas,KS,50th Percentile,0.178500713
+2006,Kansas,KS,75th Percentile,0.182733905
+2007,Kansas,KS,25th Percentile,0.169139935
+2007,Kansas,KS,50th Percentile,0.175102394
+2007,Kansas,KS,75th Percentile,0.182380108
+2008,Kansas,KS,25th Percentile,0.174468512
+2008,Kansas,KS,50th Percentile,0.181185319
+2008,Kansas,KS,75th Percentile,0.188924048
+2009,Kansas,KS,25th Percentile,0.17253941025
+2009,Kansas,KS,50th Percentile,0.184945101
+2009,Kansas,KS,75th Percentile,0.18882584675
+2010,Kansas,KS,25th Percentile,0.167648799
+2010,Kansas,KS,50th Percentile,0.1785511165
+2010,Kansas,KS,75th Percentile,0.187801116
+2011,Kansas,KS,25th Percentile,0.173870214
+2011,Kansas,KS,50th Percentile,0.179806138
+2011,Kansas,KS,75th Percentile,0.186509853
+2012,Kansas,KS,25th Percentile,0.198999761
+2012,Kansas,KS,50th Percentile,0.2028432625
+2012,Kansas,KS,75th Percentile,0.20818553575
+2013,Kansas,KS,25th Percentile,0.20160477775
+2013,Kansas,KS,50th Percentile,0.206152333
+2013,Kansas,KS,75th Percentile,0.216031827
+2014,Kansas,KS,25th Percentile,0.209115348
+2014,Kansas,KS,50th Percentile,0.215859964
+2014,Kansas,KS,75th Percentile,0.22181618
+2015,Kansas,KS,25th Percentile,0.210327092
+2015,Kansas,KS,50th Percentile,0.216868116
+2015,Kansas,KS,75th Percentile,0.223129643
+2016,Kansas,KS,25th Percentile,0.20724373375
+2016,Kansas,KS,50th Percentile,0.214961565
+2016,Kansas,KS,75th Percentile,0.22276479975
+2017,Kansas,KS,25th Percentile,0.20559137075
+2017,Kansas,KS,50th Percentile,0.215053829
+2017,Kansas,KS,75th Percentile,0.2259285885
+2018,Kansas,KS,25th Percentile,0.210951002
+2018,Kansas,KS,50th Percentile,0.222365677
+2018,Kansas,KS,75th Percentile,0.235523026
+2019,Kansas,KS,25th Percentile,0.20529592
+2019,Kansas,KS,50th Percentile,0.218629528
+2019,Kansas,KS,75th Percentile,0.2332685535
+2006,Kentucky,KY,25th Percentile,0.16270446225
+2006,Kentucky,KY,50th Percentile,0.165770639
+2006,Kentucky,KY,75th Percentile,0.17020725025
+2007,Kentucky,KY,25th Percentile,0.16294936075
+2007,Kentucky,KY,50th Percentile,0.165898057
+2007,Kentucky,KY,75th Percentile,0.16899689125
+2008,Kentucky,KY,25th Percentile,0.170663969
+2008,Kentucky,KY,50th Percentile,0.174866806
+2008,Kentucky,KY,75th Percentile,0.178537571
+2009,Kentucky,KY,25th Percentile,0.170785779
+2009,Kentucky,KY,50th Percentile,0.1744148275
+2009,Kentucky,KY,75th Percentile,0.17747290875
+2010,Kentucky,KY,25th Percentile,0.1678293325
+2010,Kentucky,KY,50th Percentile,0.17391794
+2010,Kentucky,KY,75th Percentile,0.1761597155
+2011,Kentucky,KY,25th Percentile,0.171677891
+2011,Kentucky,KY,50th Percentile,0.174281293
+2011,Kentucky,KY,75th Percentile,0.17924285175
+2012,Kentucky,KY,25th Percentile,0.192686415
+2012,Kentucky,KY,50th Percentile,0.197349681
+2012,Kentucky,KY,75th Percentile,0.200470589
+2013,Kentucky,KY,25th Percentile,0.187784787
+2013,Kentucky,KY,50th Percentile,0.19560706
+2013,Kentucky,KY,75th Percentile,0.199123087
+2014,Kentucky,KY,25th Percentile,0.19939902125
+2014,Kentucky,KY,50th Percentile,0.20492889
+2014,Kentucky,KY,75th Percentile,0.20903038825
+2015,Kentucky,KY,25th Percentile,0.198141788
+2015,Kentucky,KY,50th Percentile,0.204377295
+2015,Kentucky,KY,75th Percentile,0.209546446
+2016,Kentucky,KY,25th Percentile,0.200667516
+2016,Kentucky,KY,50th Percentile,0.20414386
+2016,Kentucky,KY,75th Percentile,0.208203064
+2017,Kentucky,KY,25th Percentile,0.19496910575
+2017,Kentucky,KY,50th Percentile,0.202612414
+2017,Kentucky,KY,75th Percentile,0.20637789225
+2018,Kentucky,KY,25th Percentile,0.201280506
+2018,Kentucky,KY,50th Percentile,0.206877983
+2018,Kentucky,KY,75th Percentile,0.214826367
+2019,Kentucky,KY,25th Percentile,0.2000193055
+2019,Kentucky,KY,50th Percentile,0.206370854
+2019,Kentucky,KY,75th Percentile,0.20972845425
+2006,Louisiana,LA,25th Percentile,0.151280747
+2006,Louisiana,LA,50th Percentile,0.1528503
+2006,Louisiana,LA,75th Percentile,0.154439062
+2007,Louisiana,LA,25th Percentile,0.149254833
+2007,Louisiana,LA,50th Percentile,0.1518263
+2007,Louisiana,LA,75th Percentile,0.153434874
+2008,Louisiana,LA,25th Percentile,0.156784809
+2008,Louisiana,LA,50th Percentile,0.15817027
+2008,Louisiana,LA,75th Percentile,0.160014751
+2009,Louisiana,LA,25th Percentile,0.156154239
+2009,Louisiana,LA,50th Percentile,0.157941542
+2009,Louisiana,LA,75th Percentile,0.159928849
+2010,Louisiana,LA,25th Percentile,0.155772149
+2010,Louisiana,LA,50th Percentile,0.157212281
+2010,Louisiana,LA,75th Percentile,0.15974204
+2011,Louisiana,LA,25th Percentile,0.15540194
+2011,Louisiana,LA,50th Percentile,0.158028864
+2011,Louisiana,LA,75th Percentile,0.160304172
+2012,Louisiana,LA,25th Percentile,0.17448948375
+2012,Louisiana,LA,50th Percentile,0.1760246205
+2012,Louisiana,LA,75th Percentile,0.17867764925
+2013,Louisiana,LA,25th Percentile,0.173827186
+2013,Louisiana,LA,50th Percentile,0.176379375
+2013,Louisiana,LA,75th Percentile,0.17844817075
+2014,Louisiana,LA,25th Percentile,0.17770748675
+2014,Louisiana,LA,50th Percentile,0.179820851
+2014,Louisiana,LA,75th Percentile,0.18242147675
+2015,Louisiana,LA,25th Percentile,0.17688800175
+2015,Louisiana,LA,50th Percentile,0.178488637
+2015,Louisiana,LA,75th Percentile,0.18301378775
+2016,Louisiana,LA,25th Percentile,0.17650209675
+2016,Louisiana,LA,50th Percentile,0.1787232075
+2016,Louisiana,LA,75th Percentile,0.18111941975
+2017,Louisiana,LA,25th Percentile,0.17735567725
+2017,Louisiana,LA,50th Percentile,0.1796491645
+2017,Louisiana,LA,75th Percentile,0.18200087725
+2018,Louisiana,LA,25th Percentile,0.18298034575
+2018,Louisiana,LA,50th Percentile,0.185856714
+2018,Louisiana,LA,75th Percentile,0.18869005225
+2019,Louisiana,LA,25th Percentile,0.1807187425
+2019,Louisiana,LA,50th Percentile,0.1836667565
+2019,Louisiana,LA,75th Percentile,0.18659875725
+2006,Maine,ME,25th Percentile,0.199324064
+2006,Maine,ME,50th Percentile,0.201549357
+2006,Maine,ME,75th Percentile,0.213852981
+2007,Maine,ME,25th Percentile,0.1869561635
+2007,Maine,ME,50th Percentile,0.1973324305
+2007,Maine,ME,75th Percentile,0.201753751
+2008,Maine,ME,25th Percentile,0.199145425
+2008,Maine,ME,50th Percentile,0.205358463
+2008,Maine,ME,75th Percentile,0.210167795
+2009,Maine,ME,25th Percentile,0.19547190375
+2009,Maine,ME,50th Percentile,0.209370594
+2009,Maine,ME,75th Percentile,0.2399934145
+2010,Maine,ME,25th Percentile,0.177763223
+2010,Maine,ME,50th Percentile,0.194230912
+2010,Maine,ME,75th Percentile,0.217579313
+2011,Maine,ME,25th Percentile,0.1882977705
+2011,Maine,ME,50th Percentile,0.204605288
+2011,Maine,ME,75th Percentile,0.2185077315
+2012,Maine,ME,25th Percentile,0.242521449
+2012,Maine,ME,50th Percentile,0.244926748
+2012,Maine,ME,75th Percentile,0.24538108
+2013,Maine,ME,25th Percentile,0.238822935
+2013,Maine,ME,50th Percentile,0.244186681
+2013,Maine,ME,75th Percentile,0.249668453
+2014,Maine,ME,25th Percentile,0.220333504
+2014,Maine,ME,50th Percentile,0.233043525
+2014,Maine,ME,75th Percentile,0.240095972
+2015,Maine,ME,25th Percentile,0.236842286
+2015,Maine,ME,50th Percentile,0.245889387
+2015,Maine,ME,75th Percentile,0.256514465
+2016,Maine,ME,25th Percentile,0.220601922
+2016,Maine,ME,50th Percentile,0.232657947
+2016,Maine,ME,75th Percentile,0.24733370925
+2017,Maine,ME,25th Percentile,0.218436723
+2017,Maine,ME,50th Percentile,0.234300813
+2017,Maine,ME,75th Percentile,0.238175652
+2018,Maine,ME,25th Percentile,0.230763139
+2018,Maine,ME,50th Percentile,0.245265234
+2018,Maine,ME,75th Percentile,0.254955302
+2019,Maine,ME,25th Percentile,0.224639358
+2019,Maine,ME,50th Percentile,0.239112598
+2019,Maine,ME,75th Percentile,0.243483555
+2006,Maryland,MD,25th Percentile,0.16145812725
+2006,Maryland,MD,50th Percentile,0.1654052075
+2006,Maryland,MD,75th Percentile,0.1682735845
+2007,Maryland,MD,25th Percentile,0.15839087425
+2007,Maryland,MD,50th Percentile,0.16302698
+2007,Maryland,MD,75th Percentile,0.1666127275
+2008,Maryland,MD,25th Percentile,0.15693791425
+2008,Maryland,MD,50th Percentile,0.162165625
+2008,Maryland,MD,75th Percentile,0.1671077985
+2009,Maryland,MD,25th Percentile,0.15800506925
+2009,Maryland,MD,50th Percentile,0.1629069265
+2009,Maryland,MD,75th Percentile,0.169336265
+2010,Maryland,MD,25th Percentile,0.15747577925
+2010,Maryland,MD,50th Percentile,0.164427642
+2010,Maryland,MD,75th Percentile,0.16803856375
+2011,Maryland,MD,25th Percentile,0.15744059825
+2011,Maryland,MD,50th Percentile,0.1621216515
+2011,Maryland,MD,75th Percentile,0.16882761925
+2012,Maryland,MD,25th Percentile,0.1800893
+2012,Maryland,MD,50th Percentile,0.186169428
+2012,Maryland,MD,75th Percentile,0.1908269835
+2013,Maryland,MD,25th Percentile,0.18112321575
+2013,Maryland,MD,50th Percentile,0.1861035695
+2013,Maryland,MD,75th Percentile,0.18999719425
+2014,Maryland,MD,25th Percentile,0.1907237275
+2014,Maryland,MD,50th Percentile,0.1958229045
+2014,Maryland,MD,75th Percentile,0.20169428
+2015,Maryland,MD,25th Percentile,0.191008683
+2015,Maryland,MD,50th Percentile,0.19580315
+2015,Maryland,MD,75th Percentile,0.20122011
+2016,Maryland,MD,25th Percentile,0.189916943
+2016,Maryland,MD,50th Percentile,0.1942473675
+2016,Maryland,MD,75th Percentile,0.19910844225
+2017,Maryland,MD,25th Percentile,0.1896882585
+2017,Maryland,MD,50th Percentile,0.19553071
+2017,Maryland,MD,75th Percentile,0.19946279325
+2018,Maryland,MD,25th Percentile,0.19227381725
+2018,Maryland,MD,50th Percentile,0.196995487
+2018,Maryland,MD,75th Percentile,0.2013467915
+2019,Maryland,MD,25th Percentile,0.19138064925
+2019,Maryland,MD,50th Percentile,0.195695423
+2019,Maryland,MD,75th Percentile,0.20034867075
+2006,Massachusetts,MA,25th Percentile,0.171982704
+2006,Massachusetts,MA,50th Percentile,0.186169578
+2006,Massachusetts,MA,75th Percentile,0.19763174875
+2007,Massachusetts,MA,25th Percentile,0.1721971095
+2007,Massachusetts,MA,50th Percentile,0.183521065
+2007,Massachusetts,MA,75th Percentile,0.1972425825
+2008,Massachusetts,MA,25th Percentile,0.1732957285
+2008,Massachusetts,MA,50th Percentile,0.184738826
+2008,Massachusetts,MA,75th Percentile,0.19637719975
+2009,Massachusetts,MA,25th Percentile,0.1764275695
+2009,Massachusetts,MA,50th Percentile,0.1865860875
+2009,Massachusetts,MA,75th Percentile,0.199205525
+2010,Massachusetts,MA,25th Percentile,0.1738539235
+2010,Massachusetts,MA,50th Percentile,0.178614118
+2010,Massachusetts,MA,75th Percentile,0.19198684575
+2011,Massachusetts,MA,25th Percentile,0.173566344
+2011,Massachusetts,MA,50th Percentile,0.1872501565
+2011,Massachusetts,MA,75th Percentile,0.1986978145
+2012,Massachusetts,MA,25th Percentile,0.205273556
+2012,Massachusetts,MA,50th Percentile,0.212245623
+2012,Massachusetts,MA,75th Percentile,0.219407214
+2013,Massachusetts,MA,25th Percentile,0.20370801
+2013,Massachusetts,MA,50th Percentile,0.208996476
+2013,Massachusetts,MA,75th Percentile,0.21555425
+2014,Massachusetts,MA,25th Percentile,0.20224340675
+2014,Massachusetts,MA,50th Percentile,0.207336215
+2014,Massachusetts,MA,75th Percentile,0.21429733325
+2015,Massachusetts,MA,25th Percentile,0.19769487
+2015,Massachusetts,MA,50th Percentile,0.2055808365
+2015,Massachusetts,MA,75th Percentile,0.214245466
+2016,Massachusetts,MA,25th Percentile,0.19883531275
+2016,Massachusetts,MA,50th Percentile,0.2093282165
+2016,Massachusetts,MA,75th Percentile,0.21684815475
+2017,Massachusetts,MA,25th Percentile,0.197746517
+2017,Massachusetts,MA,50th Percentile,0.206013179
+2017,Massachusetts,MA,75th Percentile,0.2149598345
+2018,Massachusetts,MA,25th Percentile,0.198929506
+2018,Massachusetts,MA,50th Percentile,0.20791568
+2018,Massachusetts,MA,75th Percentile,0.22306350625
+2019,Massachusetts,MA,25th Percentile,0.1986867715
+2019,Massachusetts,MA,50th Percentile,0.207850397
+2019,Massachusetts,MA,75th Percentile,0.222098312
+2006,Michigan,MI,25th Percentile,0.182042496
+2006,Michigan,MI,50th Percentile,0.192339795
+2006,Michigan,MI,75th Percentile,0.200089631
+2007,Michigan,MI,25th Percentile,0.17941241525
+2007,Michigan,MI,50th Percentile,0.193269333
+2007,Michigan,MI,75th Percentile,0.2015208285
+2008,Michigan,MI,25th Percentile,0.1881099585
+2008,Michigan,MI,50th Percentile,0.197117825
+2008,Michigan,MI,75th Percentile,0.2047108855
+2009,Michigan,MI,25th Percentile,0.18974774575
+2009,Michigan,MI,50th Percentile,0.1966757055
+2009,Michigan,MI,75th Percentile,0.2056263585
+2010,Michigan,MI,25th Percentile,0.181994796
+2010,Michigan,MI,50th Percentile,0.197904534
+2010,Michigan,MI,75th Percentile,0.205989263
+2011,Michigan,MI,25th Percentile,0.183137459
+2011,Michigan,MI,50th Percentile,0.196624737
+2011,Michigan,MI,75th Percentile,0.206261667
+2012,Michigan,MI,25th Percentile,0.22609424375
+2012,Michigan,MI,50th Percentile,0.2330905035
+2012,Michigan,MI,75th Percentile,0.23978314825
+2013,Michigan,MI,25th Percentile,0.225775031
+2013,Michigan,MI,50th Percentile,0.231852494
+2013,Michigan,MI,75th Percentile,0.242553541
+2014,Michigan,MI,25th Percentile,0.232730746
+2014,Michigan,MI,50th Percentile,0.241042374
+2014,Michigan,MI,75th Percentile,0.248884368
+2015,Michigan,MI,25th Percentile,0.2325529965
+2015,Michigan,MI,50th Percentile,0.239403346
+2015,Michigan,MI,75th Percentile,0.24679475625
+2016,Michigan,MI,25th Percentile,0.232897005
+2016,Michigan,MI,50th Percentile,0.238312299
+2016,Michigan,MI,75th Percentile,0.2502283565
+2017,Michigan,MI,25th Percentile,0.228392835
+2017,Michigan,MI,50th Percentile,0.23885984
+2017,Michigan,MI,75th Percentile,0.247120264
+2018,Michigan,MI,25th Percentile,0.2373873615
+2018,Michigan,MI,50th Percentile,0.247811904
+2018,Michigan,MI,75th Percentile,0.2594644125
+2019,Michigan,MI,25th Percentile,0.237619431
+2019,Michigan,MI,50th Percentile,0.2455353845
+2019,Michigan,MI,75th Percentile,0.25711106075
+2006,Minnesota,MN,25th Percentile,0.1770117095
+2006,Minnesota,MN,50th Percentile,0.182950227
+2006,Minnesota,MN,75th Percentile,0.187373821
+2007,Minnesota,MN,25th Percentile,0.1818474175
+2007,Minnesota,MN,50th Percentile,0.183482223
+2007,Minnesota,MN,75th Percentile,0.191909351
+2008,Minnesota,MN,25th Percentile,0.1824479525
+2008,Minnesota,MN,50th Percentile,0.1899219665
+2008,Minnesota,MN,75th Percentile,0.1953757255
+2009,Minnesota,MN,25th Percentile,0.187271389
+2009,Minnesota,MN,50th Percentile,0.194006196
+2009,Minnesota,MN,75th Percentile,0.197651395
+2010,Minnesota,MN,25th Percentile,0.18125161
+2010,Minnesota,MN,50th Percentile,0.190671312
+2010,Minnesota,MN,75th Percentile,0.1983230765
+2011,Minnesota,MN,25th Percentile,0.177961018
+2011,Minnesota,MN,50th Percentile,0.1857279845
+2011,Minnesota,MN,75th Percentile,0.19204635975
+2012,Minnesota,MN,25th Percentile,0.226405535
+2012,Minnesota,MN,50th Percentile,0.232397774
+2012,Minnesota,MN,75th Percentile,0.2401920765
+2013,Minnesota,MN,25th Percentile,0.224557405
+2013,Minnesota,MN,50th Percentile,0.228985763
+2013,Minnesota,MN,75th Percentile,0.23829530475
+2014,Minnesota,MN,25th Percentile,0.2358809055
+2014,Minnesota,MN,50th Percentile,0.240265267
+2014,Minnesota,MN,75th Percentile,0.246011327
+2015,Minnesota,MN,25th Percentile,0.2371783985
+2015,Minnesota,MN,50th Percentile,0.241535956
+2015,Minnesota,MN,75th Percentile,0.247677739
+2016,Minnesota,MN,25th Percentile,0.2349607295
+2016,Minnesota,MN,50th Percentile,0.2409891555
+2016,Minnesota,MN,75th Percentile,0.249383632
+2017,Minnesota,MN,25th Percentile,0.2347206135
+2017,Minnesota,MN,50th Percentile,0.242199108
+2017,Minnesota,MN,75th Percentile,0.248477745
+2018,Minnesota,MN,25th Percentile,0.24453076
+2018,Minnesota,MN,50th Percentile,0.249082712
+2018,Minnesota,MN,75th Percentile,0.2559075715
+2019,Minnesota,MN,25th Percentile,0.2399602195
+2019,Minnesota,MN,50th Percentile,0.245938769
+2019,Minnesota,MN,75th Percentile,0.2562463065
+2006,Mississippi,MS,25th Percentile,0.135823561
+2006,Mississippi,MS,50th Percentile,0.137837319
+2006,Mississippi,MS,75th Percentile,0.139911185
+2007,Mississippi,MS,25th Percentile,0.13421142
+2007,Mississippi,MS,50th Percentile,0.137183761
+2007,Mississippi,MS,75th Percentile,0.1400209825
+2008,Mississippi,MS,25th Percentile,0.1384634445
+2008,Mississippi,MS,50th Percentile,0.143665806
+2008,Mississippi,MS,75th Percentile,0.146528628
+2009,Mississippi,MS,25th Percentile,0.1404686015
+2009,Mississippi,MS,50th Percentile,0.143225017
+2009,Mississippi,MS,75th Percentile,0.1462345075
+2010,Mississippi,MS,25th Percentile,0.1398921495
+2010,Mississippi,MS,50th Percentile,0.143131553
+2010,Mississippi,MS,75th Percentile,0.145238741
+2011,Mississippi,MS,25th Percentile,0.1406136415
+2011,Mississippi,MS,50th Percentile,0.143692218
+2011,Mississippi,MS,75th Percentile,0.147517575
+2012,Mississippi,MS,25th Percentile,0.171070835
+2012,Mississippi,MS,50th Percentile,0.174385857
+2012,Mississippi,MS,75th Percentile,0.178453066
+2013,Mississippi,MS,25th Percentile,0.170756881
+2013,Mississippi,MS,50th Percentile,0.173884769
+2013,Mississippi,MS,75th Percentile,0.179207716
+2014,Mississippi,MS,25th Percentile,0.173427609
+2014,Mississippi,MS,50th Percentile,0.177739254
+2014,Mississippi,MS,75th Percentile,0.181173348
+2015,Mississippi,MS,25th Percentile,0.174044785
+2015,Mississippi,MS,50th Percentile,0.176366345
+2015,Mississippi,MS,75th Percentile,0.179963654
+2016,Mississippi,MS,25th Percentile,0.172736226
+2016,Mississippi,MS,50th Percentile,0.175613553
+2016,Mississippi,MS,75th Percentile,0.179338234
+2017,Mississippi,MS,25th Percentile,0.171904414
+2017,Mississippi,MS,50th Percentile,0.175940943
+2017,Mississippi,MS,75th Percentile,0.179466597
+2018,Mississippi,MS,25th Percentile,0.177013077
+2018,Mississippi,MS,50th Percentile,0.182001066
+2018,Mississippi,MS,75th Percentile,0.182634073
+2019,Mississippi,MS,25th Percentile,0.179009253
+2019,Mississippi,MS,50th Percentile,0.181403552
+2019,Mississippi,MS,75th Percentile,0.185240099
+2006,Missouri,MO,25th Percentile,0.16372003475
+2006,Missouri,MO,50th Percentile,0.1679765825
+2006,Missouri,MO,75th Percentile,0.17333467025
+2007,Missouri,MO,25th Percentile,0.1620552095
+2007,Missouri,MO,50th Percentile,0.166678725
+2007,Missouri,MO,75th Percentile,0.17307941
+2008,Missouri,MO,25th Percentile,0.169396926
+2008,Missouri,MO,50th Percentile,0.174005748
+2008,Missouri,MO,75th Percentile,0.1804176265
+2009,Missouri,MO,25th Percentile,0.170069647
+2009,Missouri,MO,50th Percentile,0.173024806
+2009,Missouri,MO,75th Percentile,0.1805255685
+2010,Missouri,MO,25th Percentile,0.169320769
+2010,Missouri,MO,50th Percentile,0.17427533
+2010,Missouri,MO,75th Percentile,0.1824772015
+2011,Missouri,MO,25th Percentile,0.16764739825
+2011,Missouri,MO,50th Percentile,0.172257496
+2011,Missouri,MO,75th Percentile,0.1796924375
+2012,Missouri,MO,25th Percentile,0.1896017935
+2012,Missouri,MO,50th Percentile,0.200315193
+2012,Missouri,MO,75th Percentile,0.205146354
+2013,Missouri,MO,25th Percentile,0.19029512925
+2013,Missouri,MO,50th Percentile,0.200041819
+2013,Missouri,MO,75th Percentile,0.2057983575
+2014,Missouri,MO,25th Percentile,0.200359268
+2014,Missouri,MO,50th Percentile,0.206911107
+2014,Missouri,MO,75th Percentile,0.2141894925
+2015,Missouri,MO,25th Percentile,0.200104422
+2015,Missouri,MO,50th Percentile,0.2059787945
+2015,Missouri,MO,75th Percentile,0.21312556
+2016,Missouri,MO,25th Percentile,0.20071855925
+2016,Missouri,MO,50th Percentile,0.2097924355
+2016,Missouri,MO,75th Percentile,0.214473509
+2017,Missouri,MO,25th Percentile,0.197092909
+2017,Missouri,MO,50th Percentile,0.2068711835
+2017,Missouri,MO,75th Percentile,0.21293095275
+2018,Missouri,MO,25th Percentile,0.201885992
+2018,Missouri,MO,50th Percentile,0.207838456
+2018,Missouri,MO,75th Percentile,0.2146823
+2019,Missouri,MO,25th Percentile,0.20188723525
+2019,Missouri,MO,50th Percentile,0.207339212
+2019,Missouri,MO,75th Percentile,0.21333706725
+2006,Montana,MT,25th Percentile,0.20299095425
+2006,Montana,MT,50th Percentile,0.2086572955
+2006,Montana,MT,75th Percentile,0.21432363675
+2007,Montana,MT,25th Percentile,0.1922338555
+2007,Montana,MT,50th Percentile,0.1962376785
+2007,Montana,MT,75th Percentile,0.2035052405
+2008,Montana,MT,25th Percentile,0.19131497875
+2008,Montana,MT,50th Percentile,0.1995270115
+2008,Montana,MT,75th Percentile,0.20773904425
+2009,Montana,MT,25th Percentile,0.180605263
+2009,Montana,MT,50th Percentile,0.181244785
+2009,Montana,MT,75th Percentile,0.1995787025
+2010,Montana,MT,25th Percentile,0.191562652
+2010,Montana,MT,50th Percentile,0.199418626
+2010,Montana,MT,75th Percentile,0.201864619
+2011,Montana,MT,25th Percentile,0.1760573235
+2011,Montana,MT,50th Percentile,0.182828377
+2011,Montana,MT,75th Percentile,0.1986210105
+2012,Montana,MT,25th Percentile,0.2299435585
+2012,Montana,MT,50th Percentile,0.240161532
+2012,Montana,MT,75th Percentile,0.2482596345
+2013,Montana,MT,25th Percentile,0.25595448625
+2013,Montana,MT,50th Percentile,0.2572163565
+2013,Montana,MT,75th Percentile,0.25847822675
+2014,Montana,MT,25th Percentile,0.24926208975
+2014,Montana,MT,50th Percentile,0.2592078485
+2014,Montana,MT,75th Percentile,0.2681648955
+2015,Montana,MT,25th Percentile,0.25320048
+2015,Montana,MT,50th Percentile,0.2589537415
+2015,Montana,MT,75th Percentile,0.26472470525
+2016,Montana,MT,25th Percentile,0.25040357725
+2016,Montana,MT,50th Percentile,0.251622669
+2016,Montana,MT,75th Percentile,0.25860473375
+2017,Montana,MT,25th Percentile,0.243507906
+2017,Montana,MT,50th Percentile,0.24913998
+2017,Montana,MT,75th Percentile,0.2530807815
+2018,Montana,MT,25th Percentile,0.26610433325
+2018,Montana,MT,50th Percentile,0.2688198725
+2018,Montana,MT,75th Percentile,0.27153541175
+2019,Montana,MT,25th Percentile,0.26208804975
+2019,Montana,MT,50th Percentile,0.2649418765
+2019,Montana,MT,75th Percentile,0.2678581405
+2006,Nebraska,NE,25th Percentile,0.1877011385
+2006,Nebraska,NE,50th Percentile,0.189542872
+2006,Nebraska,NE,75th Percentile,0.198141607
+2007,Nebraska,NE,25th Percentile,0.17749525925
+2007,Nebraska,NE,50th Percentile,0.1848168335
+2007,Nebraska,NE,75th Percentile,0.191432831
+2008,Nebraska,NE,25th Percentile,0.1880302715
+2008,Nebraska,NE,50th Percentile,0.201391286
+2008,Nebraska,NE,75th Percentile,0.2071536695
+2009,Nebraska,NE,25th Percentile,0.1721333415
+2009,Nebraska,NE,50th Percentile,0.1823305955
+2009,Nebraska,NE,75th Percentile,0.19453158525
+2010,Nebraska,NE,25th Percentile,0.1981911605
+2010,Nebraska,NE,50th Percentile,0.1991221405
+2010,Nebraska,NE,75th Percentile,0.20434797675
+2011,Nebraska,NE,25th Percentile,0.17878364925
+2011,Nebraska,NE,50th Percentile,0.1922828715
+2011,Nebraska,NE,75th Percentile,0.20010886825
+2012,Nebraska,NE,25th Percentile,0.2225557825
+2012,Nebraska,NE,50th Percentile,0.22570596
+2012,Nebraska,NE,75th Percentile,0.2309082655
+2013,Nebraska,NE,25th Percentile,0.22323621375
+2013,Nebraska,NE,50th Percentile,0.2255293045
+2013,Nebraska,NE,75th Percentile,0.22992563325
+2014,Nebraska,NE,25th Percentile,0.227670452
+2014,Nebraska,NE,50th Percentile,0.233857877
+2014,Nebraska,NE,75th Percentile,0.236279757
+2015,Nebraska,NE,25th Percentile,0.2316489305
+2015,Nebraska,NE,50th Percentile,0.2393529695
+2015,Nebraska,NE,75th Percentile,0.2423411865
+2016,Nebraska,NE,25th Percentile,0.22895260325
+2016,Nebraska,NE,50th Percentile,0.236527578
+2016,Nebraska,NE,75th Percentile,0.24149744775
+2017,Nebraska,NE,25th Percentile,0.22779589
+2017,Nebraska,NE,50th Percentile,0.239938568
+2017,Nebraska,NE,75th Percentile,0.242750507
+2018,Nebraska,NE,25th Percentile,0.2418630495
+2018,Nebraska,NE,50th Percentile,0.245415319
+2018,Nebraska,NE,75th Percentile,0.25001338625
+2019,Nebraska,NE,25th Percentile,0.2361802905
+2019,Nebraska,NE,50th Percentile,0.241297745
+2019,Nebraska,NE,75th Percentile,0.2468329335
+2006,Nevada,NV,25th Percentile,0.158125338
+2006,Nevada,NV,50th Percentile,0.16126648
+2006,Nevada,NV,75th Percentile,0.168919709
+2007,Nevada,NV,25th Percentile,0.1569578175
+2007,Nevada,NV,50th Percentile,0.159358167
+2007,Nevada,NV,75th Percentile,0.1647146845
+2008,Nevada,NV,25th Percentile,0.160325497
+2008,Nevada,NV,50th Percentile,0.165585189
+2008,Nevada,NV,75th Percentile,0.1759078395
+2009,Nevada,NV,25th Percentile,0.1611773825
+2009,Nevada,NV,50th Percentile,0.1647332035
+2009,Nevada,NV,75th Percentile,0.169244404
+2010,Nevada,NV,25th Percentile,0.1623027765
+2010,Nevada,NV,50th Percentile,0.169269209
+2010,Nevada,NV,75th Percentile,0.1724787335
+2011,Nevada,NV,25th Percentile,0.1661425965
+2011,Nevada,NV,50th Percentile,0.168028713
+2011,Nevada,NV,75th Percentile,0.171455201
+2012,Nevada,NV,25th Percentile,0.19361492
+2012,Nevada,NV,50th Percentile,0.1963826665
+2012,Nevada,NV,75th Percentile,0.20253772025
+2013,Nevada,NV,25th Percentile,0.194906447
+2013,Nevada,NV,50th Percentile,0.199188439
+2013,Nevada,NV,75th Percentile,0.20555871375
+2014,Nevada,NV,25th Percentile,0.20278393725
+2014,Nevada,NV,50th Percentile,0.204987931
+2014,Nevada,NV,75th Percentile,0.2100997015
+2015,Nevada,NV,25th Percentile,0.1969115915
+2015,Nevada,NV,50th Percentile,0.2074825945
+2015,Nevada,NV,75th Percentile,0.2146421725
+2016,Nevada,NV,25th Percentile,0.199276792
+2016,Nevada,NV,50th Percentile,0.205765247
+2016,Nevada,NV,75th Percentile,0.21541741625
+2017,Nevada,NV,25th Percentile,0.20139587625
+2017,Nevada,NV,50th Percentile,0.204975603
+2017,Nevada,NV,75th Percentile,0.21187667125
+2018,Nevada,NV,25th Percentile,0.205280222
+2018,Nevada,NV,50th Percentile,0.2120057915
+2018,Nevada,NV,75th Percentile,0.222148449
+2019,Nevada,NV,25th Percentile,0.20114000325
+2019,Nevada,NV,50th Percentile,0.2093025195
+2019,Nevada,NV,75th Percentile,0.2180891845
+2006,New Hampshire,NH,25th Percentile,0.186901088
+2006,New Hampshire,NH,50th Percentile,0.200465801
+2006,New Hampshire,NH,75th Percentile,0.215527935
+2007,New Hampshire,NH,25th Percentile,0.189382408
+2007,New Hampshire,NH,50th Percentile,0.196110594
+2007,New Hampshire,NH,75th Percentile,0.210349109
+2008,New Hampshire,NH,25th Percentile,0.199127328
+2008,New Hampshire,NH,50th Percentile,0.209226626
+2008,New Hampshire,NH,75th Percentile,0.217193855
+2009,New Hampshire,NH,25th Percentile,0.20518458
+2009,New Hampshire,NH,50th Percentile,0.209321113
+2009,New Hampshire,NH,75th Percentile,0.219127002
+2010,New Hampshire,NH,25th Percentile,0.1966387695
+2010,New Hampshire,NH,50th Percentile,0.206424702
+2010,New Hampshire,NH,75th Percentile,0.2093011995
+2011,New Hampshire,NH,25th Percentile,0.18654173975
+2011,New Hampshire,NH,50th Percentile,0.1910809125
+2011,New Hampshire,NH,75th Percentile,0.19768142425
+2012,New Hampshire,NH,25th Percentile,0.21950144925
+2012,New Hampshire,NH,50th Percentile,0.2329001955
+2012,New Hampshire,NH,75th Percentile,0.236312284
+2013,New Hampshire,NH,25th Percentile,0.221327139
+2013,New Hampshire,NH,50th Percentile,0.234281042
+2013,New Hampshire,NH,75th Percentile,0.240211837
+2014,New Hampshire,NH,25th Percentile,0.21845212025
+2014,New Hampshire,NH,50th Percentile,0.2300495245
+2014,New Hampshire,NH,75th Percentile,0.2391894195
+2015,New Hampshire,NH,25th Percentile,0.2225315
+2015,New Hampshire,NH,50th Percentile,0.234320164
+2015,New Hampshire,NH,75th Percentile,0.24342637
+2016,New Hampshire,NH,25th Percentile,0.1983267065
+2016,New Hampshire,NH,50th Percentile,0.22095483
+2016,New Hampshire,NH,75th Percentile,0.2319647835
+2017,New Hampshire,NH,25th Percentile,0.21287124
+2017,New Hampshire,NH,50th Percentile,0.22168321
+2017,New Hampshire,NH,75th Percentile,0.23346508625
+2018,New Hampshire,NH,25th Percentile,0.22323765025
+2018,New Hampshire,NH,50th Percentile,0.239579821
+2018,New Hampshire,NH,75th Percentile,0.25277399475
+2019,New Hampshire,NH,25th Percentile,0.221895268
+2019,New Hampshire,NH,50th Percentile,0.227241613
+2019,New Hampshire,NH,75th Percentile,0.241342151
+2006,New Jersey,NJ,25th Percentile,0.167205384
+2006,New Jersey,NJ,50th Percentile,0.18643168
+2006,New Jersey,NJ,75th Percentile,0.201603353
+2007,New Jersey,NJ,25th Percentile,0.167797877
+2007,New Jersey,NJ,50th Percentile,0.18205383
+2007,New Jersey,NJ,75th Percentile,0.203307767
+2008,New Jersey,NJ,25th Percentile,0.16865062
+2008,New Jersey,NJ,50th Percentile,0.185839001
+2008,New Jersey,NJ,75th Percentile,0.205508854
+2009,New Jersey,NJ,25th Percentile,0.168981924
+2009,New Jersey,NJ,50th Percentile,0.185286518
+2009,New Jersey,NJ,75th Percentile,0.210016724
+2010,New Jersey,NJ,25th Percentile,0.171269897
+2010,New Jersey,NJ,50th Percentile,0.181608377
+2010,New Jersey,NJ,75th Percentile,0.204925947
+2011,New Jersey,NJ,25th Percentile,0.169902697
+2011,New Jersey,NJ,50th Percentile,0.180731136
+2011,New Jersey,NJ,75th Percentile,0.208303637
+2012,New Jersey,NJ,25th Percentile,0.190476894
+2012,New Jersey,NJ,50th Percentile,0.198943018
+2012,New Jersey,NJ,75th Percentile,0.213592872
+2013,New Jersey,NJ,25th Percentile,0.190714376
+2013,New Jersey,NJ,50th Percentile,0.196859041
+2013,New Jersey,NJ,75th Percentile,0.216126522
+2014,New Jersey,NJ,25th Percentile,0.200077565
+2014,New Jersey,NJ,50th Percentile,0.207324162
+2014,New Jersey,NJ,75th Percentile,0.22048359
+2015,New Jersey,NJ,25th Percentile,0.20162292
+2015,New Jersey,NJ,50th Percentile,0.210130561
+2015,New Jersey,NJ,75th Percentile,0.22083236125
+2016,New Jersey,NJ,25th Percentile,0.198661313
+2016,New Jersey,NJ,50th Percentile,0.206737758
+2016,New Jersey,NJ,75th Percentile,0.220892444
+2017,New Jersey,NJ,25th Percentile,0.197489964
+2017,New Jersey,NJ,50th Percentile,0.209324953
+2017,New Jersey,NJ,75th Percentile,0.218584544
+2018,New Jersey,NJ,25th Percentile,0.201453197
+2018,New Jersey,NJ,50th Percentile,0.208706248
+2018,New Jersey,NJ,75th Percentile,0.224223414
+2019,New Jersey,NJ,25th Percentile,0.200300364
+2019,New Jersey,NJ,50th Percentile,0.210256815
+2019,New Jersey,NJ,75th Percentile,0.222599854
+2006,New Mexico,NM,25th Percentile,0.161118182
+2006,New Mexico,NM,50th Percentile,0.165058395
+2006,New Mexico,NM,75th Percentile,0.170721517
+2007,New Mexico,NM,25th Percentile,0.1576386925
+2007,New Mexico,NM,50th Percentile,0.16312772
+2007,New Mexico,NM,75th Percentile,0.174057249
+2008,New Mexico,NM,25th Percentile,0.160984522
+2008,New Mexico,NM,50th Percentile,0.168893677
+2008,New Mexico,NM,75th Percentile,0.176781936
+2009,New Mexico,NM,25th Percentile,0.157432611
+2009,New Mexico,NM,50th Percentile,0.168928182
+2009,New Mexico,NM,75th Percentile,0.174578222
+2010,New Mexico,NM,25th Percentile,0.15056287175
+2010,New Mexico,NM,50th Percentile,0.160831251
+2010,New Mexico,NM,75th Percentile,0.17373601025
+2011,New Mexico,NM,25th Percentile,0.16211130325
+2011,New Mexico,NM,50th Percentile,0.169400838
+2011,New Mexico,NM,75th Percentile,0.174965994
+2012,New Mexico,NM,25th Percentile,0.184321696
+2012,New Mexico,NM,50th Percentile,0.191557392
+2012,New Mexico,NM,75th Percentile,0.20266021
+2013,New Mexico,NM,25th Percentile,0.185300313
+2013,New Mexico,NM,50th Percentile,0.193821336
+2013,New Mexico,NM,75th Percentile,0.207218222
+2014,New Mexico,NM,25th Percentile,0.190814997
+2014,New Mexico,NM,50th Percentile,0.204473643
+2014,New Mexico,NM,75th Percentile,0.212116899
+2015,New Mexico,NM,25th Percentile,0.193986747
+2015,New Mexico,NM,50th Percentile,0.209104714
+2015,New Mexico,NM,75th Percentile,0.219392999
+2016,New Mexico,NM,25th Percentile,0.19178598
+2016,New Mexico,NM,50th Percentile,0.207729666
+2016,New Mexico,NM,75th Percentile,0.21517655175
+2017,New Mexico,NM,25th Percentile,0.20007335425
+2017,New Mexico,NM,50th Percentile,0.2065611555
+2017,New Mexico,NM,75th Percentile,0.2147839975
+2018,New Mexico,NM,25th Percentile,0.202898287
+2018,New Mexico,NM,50th Percentile,0.214810926
+2018,New Mexico,NM,75th Percentile,0.220226801
+2019,New Mexico,NM,25th Percentile,0.19850423375
+2019,New Mexico,NM,50th Percentile,0.20810761
+2019,New Mexico,NM,75th Percentile,0.21479115275
+2006,New York,NY,25th Percentile,0.173977558
+2006,New York,NY,50th Percentile,0.185454105
+2006,New York,NY,75th Percentile,0.1958917425
+2007,New York,NY,25th Percentile,0.175024803
+2007,New York,NY,50th Percentile,0.18630977
+2007,New York,NY,75th Percentile,0.198014483
+2008,New York,NY,25th Percentile,0.174350283
+2008,New York,NY,50th Percentile,0.188710759
+2008,New York,NY,75th Percentile,0.197370544
+2009,New York,NY,25th Percentile,0.1734650355
+2009,New York,NY,50th Percentile,0.186800752
+2009,New York,NY,75th Percentile,0.19783952975
+2010,New York,NY,25th Percentile,0.174012314
+2010,New York,NY,50th Percentile,0.185807937
+2010,New York,NY,75th Percentile,0.199354472
+2011,New York,NY,25th Percentile,0.1693955875
+2011,New York,NY,50th Percentile,0.185584038
+2011,New York,NY,75th Percentile,0.1973763175
+2012,New York,NY,25th Percentile,0.199122769
+2012,New York,NY,50th Percentile,0.209216125
+2012,New York,NY,75th Percentile,0.220394417
+2013,New York,NY,25th Percentile,0.1982326015
+2013,New York,NY,50th Percentile,0.2078322385
+2013,New York,NY,75th Percentile,0.22069922325
+2014,New York,NY,25th Percentile,0.1987708185
+2014,New York,NY,50th Percentile,0.213121124
+2014,New York,NY,75th Percentile,0.226954112
+2015,New York,NY,25th Percentile,0.1984123465
+2015,New York,NY,50th Percentile,0.212031176
+2015,New York,NY,75th Percentile,0.227234444
+2016,New York,NY,25th Percentile,0.1979911725
+2016,New York,NY,50th Percentile,0.209458527
+2016,New York,NY,75th Percentile,0.2221220725
+2017,New York,NY,25th Percentile,0.1961709885
+2017,New York,NY,50th Percentile,0.2095733975
+2017,New York,NY,75th Percentile,0.22589590175
+2018,New York,NY,25th Percentile,0.202677568
+2018,New York,NY,50th Percentile,0.215066751
+2018,New York,NY,75th Percentile,0.231810606
+2019,New York,NY,25th Percentile,0.20017360975
+2019,New York,NY,50th Percentile,0.214486323
+2019,New York,NY,75th Percentile,0.2294464265
+2006,North Carolina,NC,25th Percentile,0.15359054475
+2006,North Carolina,NC,50th Percentile,0.159802668
+2006,North Carolina,NC,75th Percentile,0.16341259375
+2007,North Carolina,NC,25th Percentile,0.15223385175
+2007,North Carolina,NC,50th Percentile,0.1579475015
+2007,North Carolina,NC,75th Percentile,0.16135505125
+2008,North Carolina,NC,25th Percentile,0.15815462225
+2008,North Carolina,NC,50th Percentile,0.1641908795
+2008,North Carolina,NC,75th Percentile,0.169434141
+2009,North Carolina,NC,25th Percentile,0.15881246775
+2009,North Carolina,NC,50th Percentile,0.16385009
+2009,North Carolina,NC,75th Percentile,0.167924118
+2010,North Carolina,NC,25th Percentile,0.157131089
+2010,North Carolina,NC,50th Percentile,0.163993309
+2010,North Carolina,NC,75th Percentile,0.169540679
+2011,North Carolina,NC,25th Percentile,0.159686755
+2011,North Carolina,NC,50th Percentile,0.1658318515
+2011,North Carolina,NC,75th Percentile,0.171161954
+2012,North Carolina,NC,25th Percentile,0.18064926025
+2012,North Carolina,NC,50th Percentile,0.1843113485
+2012,North Carolina,NC,75th Percentile,0.186435574
+2013,North Carolina,NC,25th Percentile,0.17960582025
+2013,North Carolina,NC,50th Percentile,0.1838834305
+2013,North Carolina,NC,75th Percentile,0.1872722645
+2014,North Carolina,NC,25th Percentile,0.18869150825
+2014,North Carolina,NC,50th Percentile,0.194254302
+2014,North Carolina,NC,75th Percentile,0.197301451
+2015,North Carolina,NC,25th Percentile,0.187670661
+2015,North Carolina,NC,50th Percentile,0.192737668
+2015,North Carolina,NC,75th Percentile,0.197212115
+2016,North Carolina,NC,25th Percentile,0.18569066175
+2016,North Carolina,NC,50th Percentile,0.191981325
+2016,North Carolina,NC,75th Percentile,0.1951799105
+2017,North Carolina,NC,25th Percentile,0.1862156795
+2017,North Carolina,NC,50th Percentile,0.19256529
+2017,North Carolina,NC,75th Percentile,0.19530327325
+2018,North Carolina,NC,25th Percentile,0.18880724075
+2018,North Carolina,NC,50th Percentile,0.194720314
+2018,North Carolina,NC,75th Percentile,0.19938745375
+2019,North Carolina,NC,25th Percentile,0.1906665445
+2019,North Carolina,NC,50th Percentile,0.1948746155
+2019,North Carolina,NC,75th Percentile,0.1980225665
+2006,North Dakota,ND,25th Percentile,0.1922832495
+2006,North Dakota,ND,50th Percentile,0.197848817
+2006,North Dakota,ND,75th Percentile,0.201765154
+2007,North Dakota,ND,25th Percentile,0.171245804
+2007,North Dakota,ND,50th Percentile,0.1893959105
+2007,North Dakota,ND,75th Percentile,0.206428924
+2008,North Dakota,ND,25th Percentile,0.18171192725
+2008,North Dakota,ND,50th Percentile,0.1847451875
+2008,North Dakota,ND,75th Percentile,0.191522751
+2009,North Dakota,ND,25th Percentile,0.183330551
+2009,North Dakota,ND,50th Percentile,0.19702776
+2009,North Dakota,ND,75th Percentile,0.20606429325
+2010,North Dakota,ND,25th Percentile,0.17900006175
+2010,North Dakota,ND,50th Percentile,0.1930340295
+2010,North Dakota,ND,75th Percentile,0.2099165515
+2011,North Dakota,ND,25th Percentile,0.187825914
+2011,North Dakota,ND,50th Percentile,0.194222989
+2011,North Dakota,ND,75th Percentile,0.20497681
+2012,North Dakota,ND,25th Percentile,0.261470422
+2012,North Dakota,ND,50th Percentile,0.2634910005
+2012,North Dakota,ND,75th Percentile,0.26441017125
+2013,North Dakota,ND,25th Percentile,0.2492164555
+2013,North Dakota,ND,50th Percentile,0.2533096555
+2013,North Dakota,ND,75th Percentile,0.25737207575
+2014,North Dakota,ND,25th Percentile,0.25220265625
+2014,North Dakota,ND,50th Percentile,0.2566551005
+2014,North Dakota,ND,75th Percentile,0.2597132525
+2015,North Dakota,ND,25th Percentile,0.267701318
+2015,North Dakota,ND,50th Percentile,0.279540779
+2015,North Dakota,ND,75th Percentile,0.28709271325
+2016,North Dakota,ND,25th Percentile,0.267389565
+2016,North Dakota,ND,50th Percentile,0.276707985
+2016,North Dakota,ND,75th Percentile,0.278071865
+2017,North Dakota,ND,25th Percentile,0.267798291
+2017,North Dakota,ND,50th Percentile,0.269640329
+2017,North Dakota,ND,75th Percentile,0.278290693
+2018,North Dakota,ND,25th Percentile,0.283665466
+2018,North Dakota,ND,50th Percentile,0.284272496
+2018,North Dakota,ND,75th Percentile,0.286592399
+2019,North Dakota,ND,25th Percentile,0.264016087
+2019,North Dakota,ND,50th Percentile,0.266859558
+2019,North Dakota,ND,75th Percentile,0.268138503
+2006,Ohio,OH,25th Percentile,0.1697798185
+2006,Ohio,OH,50th Percentile,0.1749874025
+2006,Ohio,OH,75th Percentile,0.17972663075
+2007,Ohio,OH,25th Percentile,0.16881432425
+2007,Ohio,OH,50th Percentile,0.1725323035
+2007,Ohio,OH,75th Percentile,0.1778591525
+2008,Ohio,OH,25th Percentile,0.171578615
+2008,Ohio,OH,50th Percentile,0.176267948
+2008,Ohio,OH,75th Percentile,0.183350656
+2009,Ohio,OH,25th Percentile,0.171126421
+2009,Ohio,OH,50th Percentile,0.1783582705
+2009,Ohio,OH,75th Percentile,0.184032397
+2010,Ohio,OH,25th Percentile,0.17100446575
+2010,Ohio,OH,50th Percentile,0.1770501645
+2010,Ohio,OH,75th Percentile,0.185082166
+2011,Ohio,OH,25th Percentile,0.1728816385
+2011,Ohio,OH,50th Percentile,0.1778029755
+2011,Ohio,OH,75th Percentile,0.183750497
+2012,Ohio,OH,25th Percentile,0.19521617975
+2012,Ohio,OH,50th Percentile,0.2022315735
+2012,Ohio,OH,75th Percentile,0.209403141
+2013,Ohio,OH,25th Percentile,0.193970334
+2013,Ohio,OH,50th Percentile,0.201091305
+2013,Ohio,OH,75th Percentile,0.21006823925
+2014,Ohio,OH,25th Percentile,0.20450998425
+2014,Ohio,OH,50th Percentile,0.211351486
+2014,Ohio,OH,75th Percentile,0.2182010335
+2015,Ohio,OH,25th Percentile,0.203836186
+2015,Ohio,OH,50th Percentile,0.209586694
+2015,Ohio,OH,75th Percentile,0.217324517
+2016,Ohio,OH,25th Percentile,0.20197893375
+2016,Ohio,OH,50th Percentile,0.2074343115
+2016,Ohio,OH,75th Percentile,0.2165060915
+2017,Ohio,OH,25th Percentile,0.202228361
+2017,Ohio,OH,50th Percentile,0.209565937
+2017,Ohio,OH,75th Percentile,0.216787666
+2018,Ohio,OH,25th Percentile,0.2060180245
+2018,Ohio,OH,50th Percentile,0.2138664155
+2018,Ohio,OH,75th Percentile,0.221679793
+2019,Ohio,OH,25th Percentile,0.2040846935
+2019,Ohio,OH,50th Percentile,0.213387924
+2019,Ohio,OH,75th Percentile,0.2252678115
+2006,Oklahoma,OK,25th Percentile,0.1666447315
+2006,Oklahoma,OK,50th Percentile,0.17480885
+2006,Oklahoma,OK,75th Percentile,0.177241543
+2007,Oklahoma,OK,25th Percentile,0.1668374005
+2007,Oklahoma,OK,50th Percentile,0.174997631
+2007,Oklahoma,OK,75th Percentile,0.17957867525
+2008,Oklahoma,OK,25th Percentile,0.174750961
+2008,Oklahoma,OK,50th Percentile,0.1826237435
+2008,Oklahoma,OK,75th Percentile,0.187146717
+2009,Oklahoma,OK,25th Percentile,0.17413025725
+2009,Oklahoma,OK,50th Percentile,0.1855635575
+2009,Oklahoma,OK,75th Percentile,0.18855188425
+2010,Oklahoma,OK,25th Percentile,0.17622926425
+2010,Oklahoma,OK,50th Percentile,0.183028681
+2010,Oklahoma,OK,75th Percentile,0.183575484
+2011,Oklahoma,OK,25th Percentile,0.1726519125
+2011,Oklahoma,OK,50th Percentile,0.177979059
+2011,Oklahoma,OK,75th Percentile,0.18375538425
+2012,Oklahoma,OK,25th Percentile,0.196852146
+2012,Oklahoma,OK,50th Percentile,0.2027119735
+2012,Oklahoma,OK,75th Percentile,0.21340234325
+2013,Oklahoma,OK,25th Percentile,0.203851251
+2013,Oklahoma,OK,50th Percentile,0.207194228
+2013,Oklahoma,OK,75th Percentile,0.213162049
+2014,Oklahoma,OK,25th Percentile,0.21219517275
+2014,Oklahoma,OK,50th Percentile,0.2209060145
+2014,Oklahoma,OK,75th Percentile,0.225697028
+2015,Oklahoma,OK,25th Percentile,0.2130814065
+2015,Oklahoma,OK,50th Percentile,0.216928168
+2015,Oklahoma,OK,75th Percentile,0.2215967155
+2016,Oklahoma,OK,25th Percentile,0.21223898025
+2016,Oklahoma,OK,50th Percentile,0.2175675605
+2016,Oklahoma,OK,75th Percentile,0.2265733595
+2017,Oklahoma,OK,25th Percentile,0.20950384375
+2017,Oklahoma,OK,50th Percentile,0.217082888
+2017,Oklahoma,OK,75th Percentile,0.224404368
+2018,Oklahoma,OK,25th Percentile,0.21864966775
+2018,Oklahoma,OK,50th Percentile,0.223820424
+2018,Oklahoma,OK,75th Percentile,0.2305748375
+2019,Oklahoma,OK,25th Percentile,0.216309048
+2019,Oklahoma,OK,50th Percentile,0.224257324
+2019,Oklahoma,OK,75th Percentile,0.22914071325
+2006,Oregon,OR,25th Percentile,0.17366370425
+2006,Oregon,OR,50th Percentile,0.184591515
+2006,Oregon,OR,75th Percentile,0.1867619685
+2007,Oregon,OR,25th Percentile,0.1749139005
+2007,Oregon,OR,50th Percentile,0.179231746
+2007,Oregon,OR,75th Percentile,0.183393474
+2008,Oregon,OR,25th Percentile,0.17828228025
+2008,Oregon,OR,50th Percentile,0.1880683915
+2008,Oregon,OR,75th Percentile,0.193368848
+2009,Oregon,OR,25th Percentile,0.17503010225
+2009,Oregon,OR,50th Percentile,0.186039656
+2009,Oregon,OR,75th Percentile,0.19432449375
+2010,Oregon,OR,25th Percentile,0.1683562105
+2010,Oregon,OR,50th Percentile,0.183071931
+2010,Oregon,OR,75th Percentile,0.19090414225
+2011,Oregon,OR,25th Percentile,0.17399105025
+2011,Oregon,OR,50th Percentile,0.183146496
+2011,Oregon,OR,75th Percentile,0.19510817275
+2012,Oregon,OR,25th Percentile,0.2092832525
+2012,Oregon,OR,50th Percentile,0.214072732
+2012,Oregon,OR,75th Percentile,0.21981882425
+2013,Oregon,OR,25th Percentile,0.20288629775
+2013,Oregon,OR,50th Percentile,0.2122288865
+2013,Oregon,OR,75th Percentile,0.220087399
+2014,Oregon,OR,25th Percentile,0.214920725
+2014,Oregon,OR,50th Percentile,0.218150881
+2014,Oregon,OR,75th Percentile,0.230122656
+2015,Oregon,OR,25th Percentile,0.21793359025
+2015,Oregon,OR,50th Percentile,0.223511134
+2015,Oregon,OR,75th Percentile,0.227751113
+2016,Oregon,OR,25th Percentile,0.215325796
+2016,Oregon,OR,50th Percentile,0.221106136
+2016,Oregon,OR,75th Percentile,0.224029294
+2017,Oregon,OR,25th Percentile,0.21453976625
+2017,Oregon,OR,50th Percentile,0.2189791355
+2017,Oregon,OR,75th Percentile,0.22711881875
+2018,Oregon,OR,25th Percentile,0.2265594665
+2018,Oregon,OR,50th Percentile,0.234622577
+2018,Oregon,OR,75th Percentile,0.2468444285
+2019,Oregon,OR,25th Percentile,0.22164144
+2019,Oregon,OR,50th Percentile,0.2297593805
+2019,Oregon,OR,75th Percentile,0.23520280125
+2006,Pennsylvania,PA,25th Percentile,0.1568408225
+2006,Pennsylvania,PA,50th Percentile,0.167533004
+2006,Pennsylvania,PA,75th Percentile,0.17844280325
+2007,Pennsylvania,PA,25th Percentile,0.154981816
+2007,Pennsylvania,PA,50th Percentile,0.169042298
+2007,Pennsylvania,PA,75th Percentile,0.176520595
+2008,Pennsylvania,PA,25th Percentile,0.16071286525
+2008,Pennsylvania,PA,50th Percentile,0.1731366865
+2008,Pennsylvania,PA,75th Percentile,0.1817178865
+2009,Pennsylvania,PA,25th Percentile,0.160832216
+2009,Pennsylvania,PA,50th Percentile,0.17373029
+2009,Pennsylvania,PA,75th Percentile,0.18075384075
+2010,Pennsylvania,PA,25th Percentile,0.158249283
+2010,Pennsylvania,PA,50th Percentile,0.17056053
+2010,Pennsylvania,PA,75th Percentile,0.1803849475
+2011,Pennsylvania,PA,25th Percentile,0.160920838
+2011,Pennsylvania,PA,50th Percentile,0.17476644
+2011,Pennsylvania,PA,75th Percentile,0.18325884925
+2012,Pennsylvania,PA,25th Percentile,0.191778379
+2012,Pennsylvania,PA,50th Percentile,0.2032460965
+2012,Pennsylvania,PA,75th Percentile,0.2134941535
+2013,Pennsylvania,PA,25th Percentile,0.18632977425
+2013,Pennsylvania,PA,50th Percentile,0.1961035755
+2013,Pennsylvania,PA,75th Percentile,0.2117747285
+2014,Pennsylvania,PA,25th Percentile,0.2004569185
+2014,Pennsylvania,PA,50th Percentile,0.2144081725
+2014,Pennsylvania,PA,75th Percentile,0.2244071445
+2015,Pennsylvania,PA,25th Percentile,0.201162654
+2015,Pennsylvania,PA,50th Percentile,0.212687337
+2015,Pennsylvania,PA,75th Percentile,0.220930961
+2016,Pennsylvania,PA,25th Percentile,0.20114135
+2016,Pennsylvania,PA,50th Percentile,0.210602046
+2016,Pennsylvania,PA,75th Percentile,0.220635808
+2017,Pennsylvania,PA,25th Percentile,0.1999031845
+2017,Pennsylvania,PA,50th Percentile,0.211411723
+2017,Pennsylvania,PA,75th Percentile,0.220988774
+2018,Pennsylvania,PA,25th Percentile,0.20297775675
+2018,Pennsylvania,PA,50th Percentile,0.214879903
+2018,Pennsylvania,PA,75th Percentile,0.22592179375
+2019,Pennsylvania,PA,25th Percentile,0.201599468
+2019,Pennsylvania,PA,50th Percentile,0.2163805105
+2019,Pennsylvania,PA,75th Percentile,0.22652398175
+2006,Rhode Island,RI,25th Percentile,0.1873458025
+2006,Rhode Island,RI,50th Percentile,0.200869098
+2006,Rhode Island,RI,75th Percentile,0.2048193895
+2007,Rhode Island,RI,25th Percentile,0.1817907165
+2007,Rhode Island,RI,50th Percentile,0.193475435
+2007,Rhode Island,RI,75th Percentile,0.1998470365
+2008,Rhode Island,RI,25th Percentile,0.183827234
+2008,Rhode Island,RI,50th Percentile,0.206397132
+2008,Rhode Island,RI,75th Percentile,0.211402782
+2009,Rhode Island,RI,25th Percentile,0.185983538
+2009,Rhode Island,RI,50th Percentile,0.201170035
+2009,Rhode Island,RI,75th Percentile,0.2047240505
+2010,Rhode Island,RI,25th Percentile,0.1870300295
+2010,Rhode Island,RI,50th Percentile,0.204964262
+2010,Rhode Island,RI,75th Percentile,0.2177875045
+2011,Rhode Island,RI,25th Percentile,0.1922267475
+2011,Rhode Island,RI,50th Percentile,0.197300482
+2011,Rhode Island,RI,75th Percentile,0.2004074025
+2012,Rhode Island,RI,25th Percentile,0.212823516
+2012,Rhode Island,RI,50th Percentile,0.215952045
+2012,Rhode Island,RI,75th Percentile,0.2178823175
+2013,Rhode Island,RI,25th Percentile,0.2060135335
+2013,Rhode Island,RI,50th Percentile,0.214676936
+2013,Rhode Island,RI,75th Percentile,0.2171708285
+2014,Rhode Island,RI,25th Percentile,0.201805347
+2014,Rhode Island,RI,50th Percentile,0.211661814
+2014,Rhode Island,RI,75th Percentile,0.2178632445
+2015,Rhode Island,RI,25th Percentile,0.209602521
+2015,Rhode Island,RI,50th Percentile,0.213132641
+2015,Rhode Island,RI,75th Percentile,0.2155759125
+2016,Rhode Island,RI,25th Percentile,0.203106017
+2016,Rhode Island,RI,50th Percentile,0.207829696
+2016,Rhode Island,RI,75th Percentile,0.210753353
+2017,Rhode Island,RI,25th Percentile,0.205319611
+2017,Rhode Island,RI,50th Percentile,0.209415079
+2017,Rhode Island,RI,75th Percentile,0.21292901
+2018,Rhode Island,RI,25th Percentile,0.2007371365
+2018,Rhode Island,RI,50th Percentile,0.213313979
+2018,Rhode Island,RI,75th Percentile,0.222535935
+2019,Rhode Island,RI,25th Percentile,0.1967956915
+2019,Rhode Island,RI,50th Percentile,0.213728175
+2019,Rhode Island,RI,75th Percentile,0.2239342215
+2006,South Carolina,SC,25th Percentile,0.1551875415
+2006,South Carolina,SC,50th Percentile,0.156603539
+2006,South Carolina,SC,75th Percentile,0.158846662
+2007,South Carolina,SC,25th Percentile,0.15277609
+2007,South Carolina,SC,50th Percentile,0.154848773
+2007,South Carolina,SC,75th Percentile,0.1566806005
+2008,South Carolina,SC,25th Percentile,0.159223745
+2008,South Carolina,SC,50th Percentile,0.163229248
+2008,South Carolina,SC,75th Percentile,0.166220542
+2009,South Carolina,SC,25th Percentile,0.1583592925
+2009,South Carolina,SC,50th Percentile,0.162100538
+2009,South Carolina,SC,75th Percentile,0.166127726
+2010,South Carolina,SC,25th Percentile,0.158063127
+2010,South Carolina,SC,50th Percentile,0.162244214
+2010,South Carolina,SC,75th Percentile,0.1656913115
+2011,South Carolina,SC,25th Percentile,0.1615609695
+2011,South Carolina,SC,50th Percentile,0.164398718
+2011,South Carolina,SC,75th Percentile,0.1663641215
+2012,South Carolina,SC,25th Percentile,0.18079809375
+2012,South Carolina,SC,50th Percentile,0.183905873
+2012,South Carolina,SC,75th Percentile,0.18757530175
+2013,South Carolina,SC,25th Percentile,0.17940189275
+2013,South Carolina,SC,50th Percentile,0.182820387
+2013,South Carolina,SC,75th Percentile,0.18540254575
+2014,South Carolina,SC,25th Percentile,0.18251292825
+2014,South Carolina,SC,50th Percentile,0.188658779
+2014,South Carolina,SC,75th Percentile,0.19107222275
+2015,South Carolina,SC,25th Percentile,0.184504625
+2015,South Carolina,SC,50th Percentile,0.1878875065
+2015,South Carolina,SC,75th Percentile,0.190434175
+2016,South Carolina,SC,25th Percentile,0.18280885025
+2016,South Carolina,SC,50th Percentile,0.1858533495
+2016,South Carolina,SC,75th Percentile,0.19051615375
+2017,South Carolina,SC,25th Percentile,0.183584966
+2017,South Carolina,SC,50th Percentile,0.1866665885
+2017,South Carolina,SC,75th Percentile,0.18930450525
+2018,South Carolina,SC,25th Percentile,0.1862606395
+2018,South Carolina,SC,50th Percentile,0.1899965695
+2018,South Carolina,SC,75th Percentile,0.194752688
+2019,South Carolina,SC,25th Percentile,0.18610997025
+2019,South Carolina,SC,50th Percentile,0.191070557
+2019,South Carolina,SC,75th Percentile,0.19409712625
+2006,South Dakota,SD,25th Percentile,0.188559733
+2006,South Dakota,SD,50th Percentile,0.197729082
+2006,South Dakota,SD,75th Percentile,0.205280834
+2007,South Dakota,SD,25th Percentile,0.18468782025
+2007,South Dakota,SD,50th Percentile,0.1940549365
+2007,South Dakota,SD,75th Percentile,0.2016622775
+2008,South Dakota,SD,25th Percentile,0.178660769
+2008,South Dakota,SD,50th Percentile,0.183001519
+2008,South Dakota,SD,75th Percentile,0.195989554
+2009,South Dakota,SD,25th Percentile,0.176846522
+2009,South Dakota,SD,50th Percentile,0.199646794
+2009,South Dakota,SD,75th Percentile,0.219351265
+2010,South Dakota,SD,25th Percentile,0.196160635
+2010,South Dakota,SD,50th Percentile,0.204086165
+2010,South Dakota,SD,75th Percentile,0.204142557
+2011,South Dakota,SD,25th Percentile,0.17879442325
+2011,South Dakota,SD,50th Percentile,0.1976146555
+2011,South Dakota,SD,75th Percentile,0.21290465025
+2012,South Dakota,SD,25th Percentile,0.241141744
+2012,South Dakota,SD,50th Percentile,0.244971468
+2012,South Dakota,SD,75th Percentile,0.255942298
+2013,South Dakota,SD,25th Percentile,0.241381493
+2013,South Dakota,SD,50th Percentile,0.242083427
+2013,South Dakota,SD,75th Percentile,0.246509072
+2014,South Dakota,SD,25th Percentile,0.238556139
+2014,South Dakota,SD,50th Percentile,0.252408835
+2014,South Dakota,SD,75th Percentile,0.262661794
+2015,South Dakota,SD,25th Percentile,0.261772271
+2015,South Dakota,SD,50th Percentile,0.262918808
+2015,South Dakota,SD,75th Percentile,0.270745769
+2016,South Dakota,SD,25th Percentile,0.236557775
+2016,South Dakota,SD,50th Percentile,0.2545908765
+2016,South Dakota,SD,75th Percentile,0.2573521635
+2017,South Dakota,SD,25th Percentile,0.250213932
+2017,South Dakota,SD,50th Percentile,0.259947846
+2017,South Dakota,SD,75th Percentile,0.263578825
+2018,South Dakota,SD,25th Percentile,0.260156817
+2018,South Dakota,SD,50th Percentile,0.263016856
+2018,South Dakota,SD,75th Percentile,0.264983077
+2019,South Dakota,SD,25th Percentile,0.246695446
+2019,South Dakota,SD,50th Percentile,0.262409611
+2019,South Dakota,SD,75th Percentile,0.268727644
+2006,Tennessee,TN,25th Percentile,0.154706665
+2006,Tennessee,TN,50th Percentile,0.159040846
+2006,Tennessee,TN,75th Percentile,0.16390722225
+2007,Tennessee,TN,25th Percentile,0.15275249125
+2007,Tennessee,TN,50th Percentile,0.158259629
+2007,Tennessee,TN,75th Percentile,0.1624190815
+2008,Tennessee,TN,25th Percentile,0.15983245775
+2008,Tennessee,TN,50th Percentile,0.164238902
+2008,Tennessee,TN,75th Percentile,0.1708691565
+2009,Tennessee,TN,25th Percentile,0.1584597455
+2009,Tennessee,TN,50th Percentile,0.166044243
+2009,Tennessee,TN,75th Percentile,0.172392394
+2010,Tennessee,TN,25th Percentile,0.15673612525
+2010,Tennessee,TN,50th Percentile,0.1633415135
+2010,Tennessee,TN,75th Percentile,0.168450231
+2011,Tennessee,TN,25th Percentile,0.159063686
+2011,Tennessee,TN,50th Percentile,0.166545848
+2011,Tennessee,TN,75th Percentile,0.17381967475
+2012,Tennessee,TN,25th Percentile,0.184939078
+2012,Tennessee,TN,50th Percentile,0.1877447395
+2012,Tennessee,TN,75th Percentile,0.1911332435
+2013,Tennessee,TN,25th Percentile,0.18273584
+2013,Tennessee,TN,50th Percentile,0.186297679
+2013,Tennessee,TN,75th Percentile,0.190788504
+2014,Tennessee,TN,25th Percentile,0.193183741
+2014,Tennessee,TN,50th Percentile,0.195955074
+2014,Tennessee,TN,75th Percentile,0.199129545
+2015,Tennessee,TN,25th Percentile,0.193906317
+2015,Tennessee,TN,50th Percentile,0.1975114755
+2015,Tennessee,TN,75th Percentile,0.2019195645
+2016,Tennessee,TN,25th Percentile,0.190788361
+2016,Tennessee,TN,50th Percentile,0.195386899
+2016,Tennessee,TN,75th Percentile,0.19924805375
+2017,Tennessee,TN,25th Percentile,0.192392546
+2017,Tennessee,TN,50th Percentile,0.196319138
+2017,Tennessee,TN,75th Percentile,0.199547644
+2018,Tennessee,TN,25th Percentile,0.1959193105
+2018,Tennessee,TN,50th Percentile,0.199725136
+2018,Tennessee,TN,75th Percentile,0.20470903125
+2019,Tennessee,TN,25th Percentile,0.194115255
+2019,Tennessee,TN,50th Percentile,0.198642723
+2019,Tennessee,TN,75th Percentile,0.202031189
+2006,Texas,TX,25th Percentile,0.1451954375
+2006,Texas,TX,50th Percentile,0.152400309
+2006,Texas,TX,75th Percentile,0.1589205515
+2007,Texas,TX,25th Percentile,0.14517489225
+2007,Texas,TX,50th Percentile,0.1495000995
+2007,Texas,TX,75th Percentile,0.15838207375
+2008,Texas,TX,25th Percentile,0.148195264
+2008,Texas,TX,50th Percentile,0.1539703215
+2008,Texas,TX,75th Percentile,0.1607182045
+2009,Texas,TX,25th Percentile,0.1485849495
+2009,Texas,TX,50th Percentile,0.155274055
+2009,Texas,TX,75th Percentile,0.1625714785
+2010,Texas,TX,25th Percentile,0.147805701
+2010,Texas,TX,50th Percentile,0.153598216
+2010,Texas,TX,75th Percentile,0.161259464
+2011,Texas,TX,25th Percentile,0.149210205
+2011,Texas,TX,50th Percentile,0.155094307
+2011,Texas,TX,75th Percentile,0.163764855
+2012,Texas,TX,25th Percentile,0.171557437
+2012,Texas,TX,50th Percentile,0.17947052
+2012,Texas,TX,75th Percentile,0.187676082
+2013,Texas,TX,25th Percentile,0.17168165175
+2013,Texas,TX,50th Percentile,0.1782479935
+2013,Texas,TX,75th Percentile,0.18666897275
+2014,Texas,TX,25th Percentile,0.178824921
+2014,Texas,TX,50th Percentile,0.185265453
+2014,Texas,TX,75th Percentile,0.1952641325
+2015,Texas,TX,25th Percentile,0.1791661125
+2015,Texas,TX,50th Percentile,0.185933532
+2015,Texas,TX,75th Percentile,0.1962888485
+2016,Texas,TX,25th Percentile,0.1774529865
+2016,Texas,TX,50th Percentile,0.184170732
+2016,Texas,TX,75th Percentile,0.194726189
+2017,Texas,TX,25th Percentile,0.17781878
+2017,Texas,TX,50th Percentile,0.1837435
+2017,Texas,TX,75th Percentile,0.193151272
+2018,Texas,TX,25th Percentile,0.181542438
+2018,Texas,TX,50th Percentile,0.192567953
+2018,Texas,TX,75th Percentile,0.203323312
+2019,Texas,TX,25th Percentile,0.1815111995
+2019,Texas,TX,50th Percentile,0.1909774075
+2019,Texas,TX,75th Percentile,0.2025747465
+2006,Utah,UT,25th Percentile,0.178649658
+2006,Utah,UT,50th Percentile,0.181266813
+2006,Utah,UT,75th Percentile,0.188249309
+2007,Utah,UT,25th Percentile,0.175320433
+2007,Utah,UT,50th Percentile,0.181170311
+2007,Utah,UT,75th Percentile,0.191244795
+2008,Utah,UT,25th Percentile,0.17658535
+2008,Utah,UT,50th Percentile,0.1812341155
+2008,Utah,UT,75th Percentile,0.19157775
+2009,Utah,UT,25th Percentile,0.186753239
+2009,Utah,UT,50th Percentile,0.195099709
+2009,Utah,UT,75th Percentile,0.205767425
+2010,Utah,UT,25th Percentile,0.17591188025
+2010,Utah,UT,50th Percentile,0.1919492295
+2010,Utah,UT,75th Percentile,0.20175865675
+2011,Utah,UT,25th Percentile,0.18207536475
+2011,Utah,UT,50th Percentile,0.1896116875
+2011,Utah,UT,75th Percentile,0.20655810375
+2012,Utah,UT,25th Percentile,0.20911979
+2012,Utah,UT,50th Percentile,0.214262217
+2012,Utah,UT,75th Percentile,0.217122597
+2013,Utah,UT,25th Percentile,0.20223115775
+2013,Utah,UT,50th Percentile,0.211557467
+2013,Utah,UT,75th Percentile,0.2184226425
+2014,Utah,UT,25th Percentile,0.21442188
+2014,Utah,UT,50th Percentile,0.2206189455
+2014,Utah,UT,75th Percentile,0.227656906
+2015,Utah,UT,25th Percentile,0.21620668825
+2015,Utah,UT,50th Percentile,0.2261497725
+2015,Utah,UT,75th Percentile,0.228924481
+2016,Utah,UT,25th Percentile,0.224238286
+2016,Utah,UT,50th Percentile,0.229366953
+2016,Utah,UT,75th Percentile,0.236185584
+2017,Utah,UT,25th Percentile,0.216980761
+2017,Utah,UT,50th Percentile,0.221851461
+2017,Utah,UT,75th Percentile,0.230897743
+2018,Utah,UT,25th Percentile,0.226831517
+2018,Utah,UT,50th Percentile,0.237362842
+2018,Utah,UT,75th Percentile,0.245358107
+2019,Utah,UT,25th Percentile,0.231447825
+2019,Utah,UT,50th Percentile,0.23718795
+2019,Utah,UT,75th Percentile,0.24414173475
+2006,Vermont,VT,25th Percentile,0.20593854675
+2006,Vermont,VT,50th Percentile,0.2142239295
+2006,Vermont,VT,75th Percentile,0.22250931225
+2007,Vermont,VT,25th Percentile,0.204471834
+2007,Vermont,VT,50th Percentile,0.206663419
+2007,Vermont,VT,75th Percentile,0.21775578875
+2008,Vermont,VT,25th Percentile,0.227462734
+2008,Vermont,VT,50th Percentile,0.227462734
+2008,Vermont,VT,75th Percentile,0.227462734
+2009,Vermont,VT,25th Percentile,0.2087889325
+2009,Vermont,VT,50th Percentile,0.209951153
+2009,Vermont,VT,75th Percentile,0.2111133735
+2010,Vermont,VT,25th Percentile,0.2048738295
+2010,Vermont,VT,50th Percentile,0.213455643
+2010,Vermont,VT,75th Percentile,0.2251353005
+2011,Vermont,VT,25th Percentile,0.1786980705
+2011,Vermont,VT,50th Percentile,0.1839705085
+2011,Vermont,VT,75th Percentile,0.203827491
+2012,Vermont,VT,25th Percentile,0.235723466
+2012,Vermont,VT,50th Percentile,0.235723466
+2012,Vermont,VT,75th Percentile,0.235723466
+2013,Vermont,VT,25th Percentile,0.2284121375
+2013,Vermont,VT,50th Percentile,0.230897067
+2013,Vermont,VT,75th Percentile,0.2491235145
+2014,Vermont,VT,25th Percentile,0.234590773
+2014,Vermont,VT,50th Percentile,0.24206091
+2014,Vermont,VT,75th Percentile,0.2521313995
+2015,Vermont,VT,25th Percentile,0.216502597
+2015,Vermont,VT,50th Percentile,0.2204241715
+2015,Vermont,VT,75th Percentile,0.2282230255
+2016,Vermont,VT,25th Percentile,0.2329410865
+2016,Vermont,VT,50th Percentile,0.240598388
+2016,Vermont,VT,75th Percentile,0.2483518995
+2017,Vermont,VT,25th Percentile,0.2389665535
+2017,Vermont,VT,50th Percentile,0.2418504235
+2017,Vermont,VT,75th Percentile,0.2522781245
+2018,Vermont,VT,25th Percentile,0.23828111725
+2018,Vermont,VT,50th Percentile,0.2395756475
+2018,Vermont,VT,75th Percentile,0.2402636975
+2019,Vermont,VT,25th Percentile,0.2227457165
+2019,Vermont,VT,50th Percentile,0.2315232635
+2019,Vermont,VT,75th Percentile,0.2345754315
+2006,Virginia,VA,25th Percentile,0.15677774125
+2006,Virginia,VA,50th Percentile,0.161010689
+2006,Virginia,VA,75th Percentile,0.1648597425
+2007,Virginia,VA,25th Percentile,0.1565562
+2007,Virginia,VA,50th Percentile,0.15901584
+2007,Virginia,VA,75th Percentile,0.16373626075
+2008,Virginia,VA,25th Percentile,0.159100545
+2008,Virginia,VA,50th Percentile,0.165549217
+2008,Virginia,VA,75th Percentile,0.1684266945
+2009,Virginia,VA,25th Percentile,0.1601672815
+2009,Virginia,VA,50th Percentile,0.1668614595
+2009,Virginia,VA,75th Percentile,0.169644241
+2010,Virginia,VA,25th Percentile,0.156928536
+2010,Virginia,VA,50th Percentile,0.164452604
+2010,Virginia,VA,75th Percentile,0.16799971875
+2011,Virginia,VA,25th Percentile,0.15919572
+2011,Virginia,VA,50th Percentile,0.1654836695
+2011,Virginia,VA,75th Percentile,0.16942469575
+2012,Virginia,VA,25th Percentile,0.171062449
+2012,Virginia,VA,50th Percentile,0.1738821865
+2012,Virginia,VA,75th Percentile,0.1809704735
+2013,Virginia,VA,25th Percentile,0.16887313725
+2013,Virginia,VA,50th Percentile,0.1738817615
+2013,Virginia,VA,75th Percentile,0.1804208115
+2014,Virginia,VA,25th Percentile,0.180312131
+2014,Virginia,VA,50th Percentile,0.183604885
+2014,Virginia,VA,75th Percentile,0.191399405
+2015,Virginia,VA,25th Percentile,0.17937381125
+2015,Virginia,VA,50th Percentile,0.1833871255
+2015,Virginia,VA,75th Percentile,0.19082502525
+2016,Virginia,VA,25th Percentile,0.179348074
+2016,Virginia,VA,50th Percentile,0.1824823565
+2016,Virginia,VA,75th Percentile,0.18727617575
+2017,Virginia,VA,25th Percentile,0.176455018
+2017,Virginia,VA,50th Percentile,0.181375556
+2017,Virginia,VA,75th Percentile,0.19098920775
+2018,Virginia,VA,25th Percentile,0.18066611125
+2018,Virginia,VA,50th Percentile,0.184506722
+2018,Virginia,VA,75th Percentile,0.19326699375
+2019,Virginia,VA,25th Percentile,0.1796781745
+2019,Virginia,VA,50th Percentile,0.183659915
+2019,Virginia,VA,75th Percentile,0.191326713
+2006,Washington,WA,25th Percentile,0.1764720755
+2006,Washington,WA,50th Percentile,0.183640962
+2006,Washington,WA,75th Percentile,0.1914593515
+2007,Washington,WA,25th Percentile,0.172114228
+2007,Washington,WA,50th Percentile,0.179656936
+2007,Washington,WA,75th Percentile,0.190340268
+2008,Washington,WA,25th Percentile,0.1775805565
+2008,Washington,WA,50th Percentile,0.1848212365
+2008,Washington,WA,75th Percentile,0.1937706575
+2009,Washington,WA,25th Percentile,0.18148579075
+2009,Washington,WA,50th Percentile,0.187322575
+2009,Washington,WA,75th Percentile,0.1945459615
+2010,Washington,WA,25th Percentile,0.17607649325
+2010,Washington,WA,50th Percentile,0.1817247965
+2010,Washington,WA,75th Percentile,0.188389725
+2011,Washington,WA,25th Percentile,0.173161889
+2011,Washington,WA,50th Percentile,0.181486714
+2011,Washington,WA,75th Percentile,0.191137522
+2012,Washington,WA,25th Percentile,0.200320308
+2012,Washington,WA,50th Percentile,0.208306544
+2012,Washington,WA,75th Percentile,0.214377997
+2013,Washington,WA,25th Percentile,0.20385572
+2013,Washington,WA,50th Percentile,0.207435852
+2013,Washington,WA,75th Percentile,0.213300269
+2014,Washington,WA,25th Percentile,0.2106148335
+2014,Washington,WA,50th Percentile,0.2181897215
+2014,Washington,WA,75th Percentile,0.2237128135
+2015,Washington,WA,25th Percentile,0.213219367
+2015,Washington,WA,50th Percentile,0.219195324
+2015,Washington,WA,75th Percentile,0.223106419
+2016,Washington,WA,25th Percentile,0.2057982945
+2016,Washington,WA,50th Percentile,0.2142140235
+2016,Washington,WA,75th Percentile,0.2204882685
+2017,Washington,WA,25th Percentile,0.21166922425
+2017,Washington,WA,50th Percentile,0.2173974355
+2017,Washington,WA,75th Percentile,0.22297902425
+2018,Washington,WA,25th Percentile,0.220169973
+2018,Washington,WA,50th Percentile,0.229565255
+2018,Washington,WA,75th Percentile,0.237515506
+2019,Washington,WA,25th Percentile,0.2216903015
+2019,Washington,WA,50th Percentile,0.226401237
+2019,Washington,WA,75th Percentile,0.23158551225
+2006,West Virginia,WV,25th Percentile,0.17102246125
+2006,West Virginia,WV,50th Percentile,0.174530215
+2006,West Virginia,WV,75th Percentile,0.1791436075
+2007,West Virginia,WV,25th Percentile,0.16699293725
+2007,West Virginia,WV,50th Percentile,0.173862062
+2007,West Virginia,WV,75th Percentile,0.1807117395
+2008,West Virginia,WV,25th Percentile,0.1795638695
+2008,West Virginia,WV,50th Percentile,0.182195364
+2008,West Virginia,WV,75th Percentile,0.18689509
+2009,West Virginia,WV,25th Percentile,0.180698795
+2009,West Virginia,WV,50th Percentile,0.1856742725
+2009,West Virginia,WV,75th Percentile,0.1893722435
+2010,West Virginia,WV,25th Percentile,0.17497022825
+2010,West Virginia,WV,50th Percentile,0.180206828
+2010,West Virginia,WV,75th Percentile,0.186582014
+2011,West Virginia,WV,25th Percentile,0.17599330075
+2011,West Virginia,WV,50th Percentile,0.179278228
+2011,West Virginia,WV,75th Percentile,0.1844887315
+2012,West Virginia,WV,25th Percentile,0.199722286
+2012,West Virginia,WV,50th Percentile,0.203022487
+2012,West Virginia,WV,75th Percentile,0.206092865
+2013,West Virginia,WV,25th Percentile,0.19314337025
+2013,West Virginia,WV,50th Percentile,0.197888794
+2013,West Virginia,WV,75th Percentile,0.2014975025
+2014,West Virginia,WV,25th Percentile,0.211434354
+2014,West Virginia,WV,50th Percentile,0.215840394
+2014,West Virginia,WV,75th Percentile,0.219177164
+2015,West Virginia,WV,25th Percentile,0.208938829
+2015,West Virginia,WV,50th Percentile,0.21397843
+2015,West Virginia,WV,75th Percentile,0.220841161
+2016,West Virginia,WV,25th Percentile,0.203006975
+2016,West Virginia,WV,50th Percentile,0.211454695
+2016,West Virginia,WV,75th Percentile,0.2149096815
+2017,West Virginia,WV,25th Percentile,0.214489457
+2017,West Virginia,WV,50th Percentile,0.216728144
+2017,West Virginia,WV,75th Percentile,0.223956416
+2018,West Virginia,WV,25th Percentile,0.200258552
+2018,West Virginia,WV,50th Percentile,0.210269951
+2018,West Virginia,WV,75th Percentile,0.217171174
+2019,West Virginia,WV,25th Percentile,0.207712142
+2019,West Virginia,WV,50th Percentile,0.215484993
+2019,West Virginia,WV,75th Percentile,0.220779945
+2006,Wisconsin,WI,25th Percentile,0.18039734
+2006,Wisconsin,WI,50th Percentile,0.187736528
+2006,Wisconsin,WI,75th Percentile,0.199233463
+2007,Wisconsin,WI,25th Percentile,0.179031103
+2007,Wisconsin,WI,50th Percentile,0.187811526
+2007,Wisconsin,WI,75th Percentile,0.19743868
+2008,Wisconsin,WI,25th Percentile,0.1860067545
+2008,Wisconsin,WI,50th Percentile,0.192853814
+2008,Wisconsin,WI,75th Percentile,0.202276629
+2009,Wisconsin,WI,25th Percentile,0.1896895945
+2009,Wisconsin,WI,50th Percentile,0.196823737
+2009,Wisconsin,WI,75th Percentile,0.2053482135
+2010,Wisconsin,WI,25th Percentile,0.184900602
+2010,Wisconsin,WI,50th Percentile,0.18976082
+2010,Wisconsin,WI,75th Percentile,0.1927657635
+2011,Wisconsin,WI,25th Percentile,0.1863279585
+2011,Wisconsin,WI,50th Percentile,0.192376218
+2011,Wisconsin,WI,75th Percentile,0.2016745245
+2012,Wisconsin,WI,25th Percentile,0.21932376575
+2012,Wisconsin,WI,50th Percentile,0.2229097805
+2012,Wisconsin,WI,75th Percentile,0.2312374515
+2013,Wisconsin,WI,25th Percentile,0.221137598
+2013,Wisconsin,WI,50th Percentile,0.2272096275
+2013,Wisconsin,WI,75th Percentile,0.2376271105
+2014,Wisconsin,WI,25th Percentile,0.23004340525
+2014,Wisconsin,WI,50th Percentile,0.233771188
+2014,Wisconsin,WI,75th Percentile,0.24459925125
+2015,Wisconsin,WI,25th Percentile,0.22195033075
+2015,Wisconsin,WI,50th Percentile,0.231766042
+2015,Wisconsin,WI,75th Percentile,0.2432236155
+2016,Wisconsin,WI,25th Percentile,0.2201364305
+2016,Wisconsin,WI,50th Percentile,0.230919894
+2016,Wisconsin,WI,75th Percentile,0.24036840225
+2017,Wisconsin,WI,25th Percentile,0.227798834
+2017,Wisconsin,WI,50th Percentile,0.231588952
+2017,Wisconsin,WI,75th Percentile,0.23999855
+2018,Wisconsin,WI,25th Percentile,0.2373125805
+2018,Wisconsin,WI,50th Percentile,0.242448453
+2018,Wisconsin,WI,75th Percentile,0.250879649
+2019,Wisconsin,WI,25th Percentile,0.23649510875
+2019,Wisconsin,WI,50th Percentile,0.240943545
+2019,Wisconsin,WI,75th Percentile,0.24796991725
+2006,Wyoming,WY,25th Percentile,0.193457641
+2006,Wyoming,WY,50th Percentile,0.193457641
+2006,Wyoming,WY,75th Percentile,0.193457641
+2007,Wyoming,WY,25th Percentile,0.19616565375
+2007,Wyoming,WY,50th Percentile,0.1999796435
+2007,Wyoming,WY,75th Percentile,0.20379363325
+2008,Wyoming,WY,25th Percentile,0.19012908325
+2008,Wyoming,WY,50th Percentile,0.2008014075
+2008,Wyoming,WY,75th Percentile,0.21159454625
+2009,Wyoming,WY,25th Percentile,0.1864270745
+2009,Wyoming,WY,50th Percentile,0.189230451
+2009,Wyoming,WY,75th Percentile,0.1920338275
+2010,Wyoming,WY,25th Percentile,0.1664134045
+2010,Wyoming,WY,50th Percentile,0.170895925
+2010,Wyoming,WY,75th Percentile,0.18407721
+2011,Wyoming,WY,25th Percentile,0.2006171045
+2011,Wyoming,WY,50th Percentile,0.203893962
+2011,Wyoming,WY,75th Percentile,0.212249937
+2012,Wyoming,WY,25th Percentile,0.2170669375
+2012,Wyoming,WY,50th Percentile,0.222321097
+2012,Wyoming,WY,75th Percentile,0.232637915
+2013,Wyoming,WY,25th Percentile,0.23420051
+2013,Wyoming,WY,50th Percentile,0.240510791
+2013,Wyoming,WY,75th Percentile,0.2518853595
+2014,Wyoming,WY,25th Percentile,0.214283593
+2014,Wyoming,WY,50th Percentile,0.221974573
+2014,Wyoming,WY,75th Percentile,0.2334837695
+2015,Wyoming,WY,25th Percentile,0.217477391
+2015,Wyoming,WY,50th Percentile,0.2222334
+2015,Wyoming,WY,75th Percentile,0.2336563645
+2016,Wyoming,WY,25th Percentile,0.24422780875
+2016,Wyoming,WY,50th Percentile,0.253031554
+2016,Wyoming,WY,75th Percentile,0.25778513725
+2017,Wyoming,WY,25th Percentile,0.21697252
+2017,Wyoming,WY,50th Percentile,0.2318877
+2017,Wyoming,WY,75th Percentile,0.253561522
+2018,Wyoming,WY,25th Percentile,0.2339272305
+2018,Wyoming,WY,50th Percentile,0.234778324
+2018,Wyoming,WY,75th Percentile,0.246982876
+2019,Wyoming,WY,25th Percentile,0.24204910625
+2019,Wyoming,WY,50th Percentile,0.249035186
+2019,Wyoming,WY,75th Percentile,0.25959586175
