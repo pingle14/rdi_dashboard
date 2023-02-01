@@ -2,6 +2,7 @@ import streamlit as st
 import altair as alt
 import plotly.express as px
 import pandas as pd
+import io
 
 # import numpy as np
 # import geopandas as gpd
@@ -17,7 +18,7 @@ def plot_altair_timeline(df, state_name):
         alt.Chart(mini_df)
         .mark_line()
         .encode(
-            alt.Y("RDI Index", scale=alt.Scale(zero=False)),
+            alt.Y("GDI Index", scale=alt.Scale(zero=False)),
             x="Year",
             color="Type of Percentile:N",
         )
@@ -37,7 +38,7 @@ def plot_altair_timeline(df, state_name):
 
     # Draw text labels near the points, and highlight based on selection
     text = line.mark_text(align="left", dx=10, dy=-5).encode(
-        text=alt.condition(nearest, "RDI Index", alt.value(" "))
+        text=alt.condition(nearest, "GDI Index", alt.value(" "))
     )
 
     # Draw a rule at the location of the selection
@@ -48,7 +49,7 @@ def plot_altair_timeline(df, state_name):
         .transform_filter(nearest)
     )
 
-    chart_title = f"{state_name} RDI Index Over Time"
+    chart_title = f"{state_name} GDI Index Over Time"
 
     # Put pieces of chart together
     chart = alt.layer(line, selectors, points, rules, text).properties(
@@ -62,12 +63,12 @@ def plot_timeline(df, state_name):
     fig = px.line(
         df[df.state_name == state_name],
         x="Year",
-        y="RDI Index",
+        y="GDI Index",
         color="Type of Percentile",
         markers=True,
         template="plotly_dark",
     )
-    plt_title = f"{state_name} RDI Index Over Time"
+    plt_title = f"{state_name} GDI Index Over Time"
     fig.update_layout(
         height=600,
         title_font_size=36,
@@ -117,17 +118,17 @@ def plot_timeline(df, state_name):
     st.text("\n")
     return fig, plt_title
 
-def plot_colormap(gdf, year, field):
+
+def plot_colormap(gdf, year, field, formatted_name):
     # Load Data
     df = pd.read_csv("data/full_rdi_values.csv", usecols=["year", field, "MERGE_CODE"])
     df = df[df.year == year]
-    plt_title = f"{field} Across US in {year}"
+    plt_title = f"{formatted_name} Across US in {year}"
 
     if year >= 2010:
         try:
             # Merge Dsets
             df = gdf.merge(df, on="MERGE_CODE")
-
             fig = px.choropleth_mapbox(
                 df,
                 geojson=df.geometry,
@@ -138,6 +139,9 @@ def plot_colormap(gdf, year, field):
                 mapbox_style="open-street-map",
                 zoom=3,
                 opacity=0.75,
+                hover_data=[
+                    col for col in df.columns if col not in ["geometry", "MERGE_CODE"]
+                ],
                 title=field,
             )
             fig.update_traces(marker_line_width=0.001, marker_line_color="black")
@@ -151,9 +155,9 @@ def plot_colormap(gdf, year, field):
                 title_y=0.9,
                 title_font_color="peachpuff",
                 paper_bgcolor="black",
-                # coloraxis_colorbar={
-                #     "title": formatted_median_name,
-                # },
+                coloraxis_colorbar={
+                    "title": field,
+                },
             )
 
             st.plotly_chart(fig, use_container_width=True)

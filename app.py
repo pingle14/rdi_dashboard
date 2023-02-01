@@ -1,9 +1,6 @@
 import streamlit as st
 import seaborn as sns
 from PIL import Image
-import plotly.express as px
-
-# import geopandas as gpd
 
 from rdi_utils.constants import page_title
 from rdi_utils.utils import display_header, do_maps, do_timeline, do_model
@@ -82,15 +79,15 @@ if "chose_valid_option" not in st.session_state:
 #################################################################################
 display_header(logo, page_title)
 
-opt_map = "Map RDI/year across the US"
-opt_timeline = "Visualize how RDI changes over time for each state"
+opt_map = "Map GDI/year across the US"
+opt_timeline = "Visualize how GDI changes over time for each state"
 opt_upload = "Upload your own data and get SHAP Values from our model"
 
 option = None
 with st.form("choose_option"):
     st.markdown("")
     st.subheader("What do you wish to explore?")
-    option = st.radio("", options=[opt_map, opt_timeline, opt_upload])
+    option = st.radio("", options=[opt_map, opt_timeline])  # opt_upload
 
     submitted = st.form_submit_button("Submit")
     if submitted:
