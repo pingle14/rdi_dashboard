@@ -22,11 +22,10 @@ def display_header(logo, page_title):
             """<style> .font {font-size:45px ; font-family: 'Cooper Black'; color: #FF9633;} </style>""",
             unsafe_allow_html=True,
         )
-        st.markdown('<p class="font">Urban Information Lab</p>', unsafe_allow_html=True)
+        st.markdown(f'<p class="font">{page_title}</p>', unsafe_allow_html=True)
     with col1:
         st.image(logo)
 
-    st.header(page_title)
     st.markdown(f"> {descriptions['header']} ")
 
 

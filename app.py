@@ -63,16 +63,6 @@ m = st.markdown(
 #################################################################################
 if "chose_valid_option" not in st.session_state:
     st.session_state["chose_valid_option"] = False
-# if "chose_valid_location" not in st.session_state:
-#     st.session_state["chose_valid_location"] = False
-# if "chose_valid_data_src" not in st.session_state:
-#     st.session_state["chose_valid_data_src"] = False
-# if "found_zipcodes" not in st.session_state:
-#     st.session_state["found_zipcodes"] = False
-# if "housing_data_availalbe" not in st.session_state:
-#     st.session_state["housing_data_availalbe"] = False
-# if "housing_shp_loaded" not in st.session_state:
-#     st.session_state["housing_shp_loaded"] = False
 
 #################################################################################
 #                                 LAYOUT                                        #
