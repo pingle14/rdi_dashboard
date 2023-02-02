@@ -1,4 +1,4 @@
-# Racial Disparity Index Dashboard
+# Exploring Racial Disparity Index (ERDI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://racial-disparity-index-tool.streamlit.app/)
 
 > This site seeks to explore the relationship between individuals' socioeconomic characteristics and their likelihood of homeownership. Specifically we define a **Racial Disparity Index (RDI)** that quantifies racial inequality in an outcome gap in the homeownership problem space.
 
