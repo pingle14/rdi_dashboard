@@ -18,7 +18,7 @@ def plot_altair_timeline(df, state_name):
         alt.Chart(mini_df)
         .mark_line()
         .encode(
-            alt.Y("GDI Index", scale=alt.Scale(zero=False)),
+            alt.Y("RDI Index", scale=alt.Scale(zero=False)),
             x="Year",
             color="Type of Percentile:N",
         )
@@ -38,7 +38,7 @@ def plot_altair_timeline(df, state_name):
 
     # Draw text labels near the points, and highlight based on selection
     text = line.mark_text(align="left", dx=10, dy=-5).encode(
-        text=alt.condition(nearest, "GDI Index", alt.value(" "))
+        text=alt.condition(nearest, "RDI Index", alt.value(" "))
     )
 
     # Draw a rule at the location of the selection
@@ -49,7 +49,7 @@ def plot_altair_timeline(df, state_name):
         .transform_filter(nearest)
     )
 
-    chart_title = f"{state_name} GDI Index Over Time"
+    chart_title = f"{state_name} RDI Index Over Time"
 
     # Put pieces of chart together
     chart = alt.layer(line, selectors, points, rules, text).properties(
@@ -63,12 +63,12 @@ def plot_timeline(df, state_name):
     fig = px.line(
         df[df.state_name == state_name],
         x="Year",
-        y="GDI Index",
+        y="RDI Index",
         color="Type of Percentile",
         markers=True,
         template="plotly_dark",
     )
-    plt_title = f"{state_name} GDI Index Over Time"
+    plt_title = f"{state_name} RDI Index Over Time"
     fig.update_layout(
         height=600,
         title_font_size=36,

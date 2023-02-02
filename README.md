@@ -1,6 +1,6 @@
 # Group Disparity Index Dashboard
 
-> This site seeks to explore the relationship between individuals' socioeconomic characteristics and their likelihood of homeownership. Specifically we define a **Group Disparity Index (GDI)** that quantifies group inequality in an outcome gap in the homeownership problem space.
+> This site seeks to explore the relationship between individuals' socioeconomic characteristics and their likelihood of homeownership. Specifically we define a **Group Disparity Index (RDI)** that quantifies group inequality in an outcome gap in the homeownership problem space.
 
 ---
 ## How can I safely update this site??

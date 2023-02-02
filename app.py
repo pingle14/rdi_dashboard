@@ -79,8 +79,8 @@ if "chose_valid_option" not in st.session_state:
 #################################################################################
 display_header(logo, page_title)
 
-opt_map = "Map GDI/year across the US"
-opt_timeline = "Visualize how GDI changes over time for each state"
+opt_map = "Map RDI/year across the US"
+opt_timeline = "Visualize how RDI changes over time for each state"
 opt_upload = "Upload your own data and get SHAP Values from our model"
 
 option = None

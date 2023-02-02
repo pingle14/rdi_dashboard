@@ -1,4 +1,4 @@
-Year,state_name,state_code,Type of Percentile,GDI Index
+Year,state_name,state_code,Type of Percentile,RDI Index
 2006,Alabama,AL,25th Percentile,0.148186688
 2006,Alabama,AL,50th Percentile,0.151225814
 2006,Alabama,AL,75th Percentile,0.15385570225

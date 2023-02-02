@@ -50,7 +50,7 @@ def do_maps(gdf):
         # Have download Button
         with open("data/full_rdi_values.csv") as f:
             st.download_button(
-                label="Download Full GDI Values",
+                label="Download Full RDI Values",
                 data=f,
                 file_name="full_rdi_values.csv",
                 mime="text/csv",
@@ -75,7 +75,7 @@ def do_timeline():
 
             with open("data/timeline_df.csv") as f:
                 st.download_button(
-                    label="Download GDI Quantiles",
+                    label="Download RDI Quantiles",
                     data=f,
                     file_name="rdi_full_timeline.csv",
                     mime="text/csv",

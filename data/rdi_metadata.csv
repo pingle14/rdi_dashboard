@@ -3,7 +3,7 @@ med_income,Median Income,Median Household Income ($) per PUMA Region
 prop_bach_black,Proportion of Black Householders With Bachelor Degree,proportion of householders identifying as black with at least a bachelor's degree
 prop_bach_other,Proportion of Other Householders With Bachelor Degree,proprotion of householders identifying as other with at least a bachelor's degree
 prop_bach_white,Proportion of Write Householders With Bachelor Degree,proprotion of householders identifying as white with at least a bachelor's degree
-gdi_black,GDI Value for Black Individuals,GDI for black ie (shap_white - shap_black)
-gdi_other,GDI Value for Other Individuals,GDI for other ie (shap_white - shap_other)
-prev_gdi_black,Previous Year's GDI Value for Black Individuals,previous year's GDI for black ie gdi_black lagged by 1 year
-prev_gdi_other,Previous Year's GDI Value for Other Individuals,previous year's GDI for black ie gdi_other lagged by 1 year
+rdi_black,RDI Value for Black Individuals,RDI for black ie (shap_white - shap_black)
+rdi_other,RDI Value for Other Individuals,RDI for other ie (shap_white - shap_other)
+prev_rdi_black,Previous Year's RDI Value for Black Individuals,previous year's RDI for black ie rdi_black lagged by 1 year
+prev_rdi_other,Previous Year's RDI Value for Other Individuals,previous year's RDI for black ie rdi_other lagged by 1 year
