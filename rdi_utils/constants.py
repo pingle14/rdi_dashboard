@@ -1,4 +1,4 @@
-page_title = "US Racial Disparity Index Dashboard"
+page_title = "Exploring Racial Disparity Index (ERDI)"
 states = {
     # "All": "All",
     "AK": "Alaska",

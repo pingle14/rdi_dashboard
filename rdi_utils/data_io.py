@@ -3,8 +3,6 @@ import pandas as pd
 import logging
 import geopandas as gpd
 
-# import numpy as np
-
 
 def load_full_csv(path: str):
     df = None
@@ -17,6 +15,7 @@ def load_full_csv(path: str):
     return df, success
 
 
+@st.cache(ttl=24 * 3600)
 def load_shp_file(path):
     gdf = None
     try:
