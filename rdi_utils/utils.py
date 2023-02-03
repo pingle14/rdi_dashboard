@@ -138,7 +138,7 @@ def do_model():
                     mime="text/csv",
                 )
             except Exception as e:
-                st.warning("Something went wrong with the file") 
+                st.warning("Something went wrong with the file")
 
         else:
             st.warning("Something went wrong with the file")
