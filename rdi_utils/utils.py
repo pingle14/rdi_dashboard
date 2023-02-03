@@ -1,7 +1,6 @@
 import streamlit as st
 import io
 import pandas as pd
-import pickle
 import shap
 import xgboost as xgb
 from rdi_utils.data_io import load_full_csv, convert_df
@@ -108,7 +107,9 @@ def do_model():
     st.markdown(f"> {descriptions['model']} ")
 
     st.markdown("#### Upload a Input File")
-    st.markdown("##### This [sample_csv](https://github.com/A-Good-System-for-Smart-Cities/rdi_dashboard/blob/main/data/sample_input.csv) exemplifies how the input file should look.")
+    st.markdown(
+        "##### This [sample_csv](https://github.com/A-Good-System-for-Smart-Cities/rdi_dashboard/blob/main/data/sample_input.csv) exemplifies how the input file should look."
+    )
 
     uploaded_file = st.file_uploader("")
     if uploaded_file is not None:
@@ -118,7 +119,7 @@ def do_model():
 
         acsX, success = load_full_csv(uploaded_file)
 
-        if(success):
+        if success:
             try:
                 # Opens the given pickle file as a dict of xgobjects
                 model = xgb.XGBRegressor()
@@ -132,12 +133,12 @@ def do_model():
 
                 # Print prediction for every row in sample input (see above slack message)
                 st.download_button(
-                    label=f"Calculate and Download Predictions",
+                    label="Calculate and Download Predictions",
                     data=shap_csv,
                     file_name=f"{year}_shap_values.csv",
                     mime="text/csv",
                 )
-            except Exception as e:
+            except Exception:
                 st.warning("Something went wrong with the file")
 
         else:
