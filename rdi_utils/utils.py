@@ -3,6 +3,7 @@ import io
 import pandas as pd
 import shap
 import xgboost as xgb
+import logging
 from rdi_utils.data_io import load_full_csv, convert_df
 from rdi_utils.forms import pick_state, pick_year, pick_field
 from rdi_utils.plots import plot_timeline, plot_colormap
@@ -140,7 +141,7 @@ def do_model():
                 )
             except Exception as e:
                 st.warning("Something went wrong with the file")
-                raise e
+                logging.info(e)
 
         else:
             st.warning("Something went wrong with the file")
