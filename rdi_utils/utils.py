@@ -138,8 +138,9 @@ def do_model():
                     file_name=f"{year}_shap_values.csv",
                     mime="text/csv",
                 )
-            except Exception:
+            except Exception as e:
                 st.warning("Something went wrong with the file")
+                raise e
 
         else:
             st.warning("Something went wrong with the file")
