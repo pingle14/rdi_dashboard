@@ -77,7 +77,7 @@ option = None
 with st.form("choose_option"):
     st.markdown("")
     st.subheader("What do you wish to explore?")
-    option = st.radio("", options=[opt_map, opt_timeline])  # opt_upload
+    option = st.radio("", options=[opt_map, opt_timeline, opt_upload])
 
     submitted = st.form_submit_button("Submit")
     if submitted:

@@ -12,11 +12,8 @@ def pick_state():
     return state
 
 
-def pick_year():
+def pick_year(ymin, ymax):
     st.markdown("#### Choose a Year")
-    df = pd.read_csv("data/full_rdi_values.csv", usecols=["year"])
-    ymin = max(2010, min(df.year))
-    ymax = max(df.year)
     options = [int(yr) for yr in range(int(ymin), int(ymax + 1))]
     year = st.selectbox("", options)
     return year

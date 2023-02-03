@@ -33,7 +33,7 @@ def load_shp_file(path):
 def convert_df(df, mode="csv"):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     if mode == "csv":
-        return df.to_csv().encode("utf-8")
+        return df.to_csv(index=False).encode("utf-8")
     elif mode == "pickle":
         return df.to_pickle()
     return None

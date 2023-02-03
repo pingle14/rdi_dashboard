@@ -2,11 +2,9 @@ import streamlit as st
 import io
 import pandas as pd
 import pickle
-
-# import shap
-# import xgboost
-
-from rdi_utils.data_io import load_full_csv
+import shap
+import xgboost as xgb
+from rdi_utils.data_io import load_full_csv, convert_df
 from rdi_utils.forms import pick_state, pick_year, pick_field
 from rdi_utils.plots import plot_timeline, plot_colormap
 from rdi_utils.constants import descriptions
@@ -41,7 +39,10 @@ def do_maps(gdf):
     field = None
     with cols[0]:
         # Pick Year
-        year = pick_year()
+        df = pd.read_csv("data/full_rdi_values.csv", usecols=["year"])
+        ymin = max(2010, min(df.year))
+        ymax = max(df.year)
+        year = pick_year(ymin, ymax)
 
         # Pick Color Col
         field, formatted_name = pick_field(metadata, meta_success)
@@ -105,37 +106,39 @@ def do_timeline():
 #################################################################################
 def do_model():
     st.markdown(f"> {descriptions['model']} ")
-    model_sfxs = {"Model for 2005 - 2009": "2005", "Model for 2010 - 2019": "2012"}
 
-    st.markdown("#### Choose a Input File")
+    st.markdown("#### Upload a Input File")
+    st.markdown("##### This [sample_csv](https://github.com/A-Good-System-for-Smart-Cities/rdi_dashboard/blob/main/data/sample_input.csv) exemplifies how the input file should look.")
+
     uploaded_file = st.file_uploader("")
     if uploaded_file is not None:
-        df = pd.read_csv(uploaded_file)
-        st.write(df)
+        ymin, ymax = 2005, 2019
+        year = pick_year(ymin, ymax)
+        model_path = f"models/xg_{year}.json"
 
-        # Opens the given pickle file as a dict of xgobjects
-        pickle_dict = open("models/xg_mdl_w_shap_1_18_23.pkl", "rb")
-        pickle_dict = pickle.load(pickle_dict)
+        acsX, success = load_full_csv(uploaded_file)
 
-        # User selects a year-range of interest (aka pre or post 2010)
-        st.markdown("#### Choose a Model")
-        model_option = st.radio("", options=model_sfxs.keys())
+        if(success):
+            try:
+                # Opens the given pickle file as a dict of xgobjects
+                model = xgb.XGBRegressor()
+                model.load_model(model_path)
 
-        # Based on year-range, choose appropriate model and explainer object
-        classifier = pickle_dict[f"mdl{model_sfxs[model_option]}"]
-        st.text(classifier)
+                # User selects a year-range of interest (aka pre or post 2010)
+                explainer = shap.TreeExplainer(model, acsX)
+                shap_year = explainer.shap_values(acsX)
 
-        explainer = pickle_dict[f"exp{model_sfxs[model_option]}"]
-        st.text(explainer)
+                shap_csv = convert_df(pd.DataFrame(shap_year))
 
-        # Print prediction for every row in sample input (see above slack message)
-        # if st.button("Predict"):
-        #     for i, row in df.iterrows():
-        #         prediction = classifier.predict(row)
-        #         print(prediction)
+                # Print prediction for every row in sample input (see above slack message)
+                st.download_button(
+                    label=f"Calculate and Download Predictions",
+                    data=shap_csv,
+                    file_name=f"{year}_shap_values.csv",
+                    mime="text/csv",
+                )
+            except Exception as e:
+                st.warning("Something went wrong with the file") 
 
-        #
-        #     results = []
-        #     for i, row in df.iterrows():
-        #         prediction = classifier.predict([row])
-        #         print(prediction)
+        else:
+            st.warning("Something went wrong with the file")
