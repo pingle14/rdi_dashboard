@@ -15,7 +15,7 @@ def load_full_csv(path: str):
     return df, success
 
 
-@st.cache(ttl=24 * 3600)
+@st.cache_data(ttl=24 * 3600)
 def load_shp_file(path):
     gdf = None
     try:
@@ -29,7 +29,7 @@ def load_shp_file(path):
     return gdf
 
 
-@st.cache(ttl=24 * 3600)
+@st.cache_data(ttl=24 * 3600)
 def convert_df(df, mode="csv"):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     if mode == "csv":
